@@ -1,4 +1,16 @@
-# Front Body V1 modular para Fusion
+# Carroceria modular para Fusion
+
+## Traseira — Rear Body V1
+
+[**BAIXAR O PACOTE DA TRASEIRA**](https://github.com/evildinomar2-dot/front-body-modular/raw/refs/heads/main/Traseira/Rear_Body_Modular_Fusion.zip)
+
+Oito peças separadas, guias internas e tampa do porta-malas removível, em STEP e STL. [Instruções e validações da traseira](Traseira/README.md).
+
+![Traseira explodida](Traseira/EXPLODIDO.png)
+
+---
+
+## Dianteira — Front Body V1
 
 [**BAIXAR O PACOTE COMPLETO — ZIP, aproximadamente 44 MB**](https://github.com/evildinomar2-dot/front-body-modular/raw/refs/heads/main/Pacote_completo_Fusion.zip)
 
