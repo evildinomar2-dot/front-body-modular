@@ -24,3 +24,6 @@ Todos os 55 STEP foram reimportados como sólidos válidos individuais e as duas
 ![Cabine dividida](DIVISAO_CABINE.png)
 
 A prévia inicial e os projetos anteriores foram preservados.
+
+
+[Vistas explodidas por três ângulos e download das imagens](VISTAS_EXPLODIDAS/README.md)

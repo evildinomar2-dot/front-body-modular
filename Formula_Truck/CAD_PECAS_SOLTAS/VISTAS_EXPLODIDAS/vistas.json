@@ -1,0 +1,30 @@
+{
+  "componentes": 55,
+  "carroceria": 47,
+  "vidros_faixas_opcionais": 8,
+  "geometria": "Mesmos componentes do CAD entregue; apenas deslocados para visualizacao explodida",
+  "tamanho_px": [
+    2400,
+    1600
+  ],
+  "vistas": [
+    {
+      "arquivo": "EXPLODIDO_FRENTE.png",
+      "azimute_graus": -145,
+      "elevacao_graus": 24,
+      "descricao": "Frente em perspectiva"
+    },
+    {
+      "arquivo": "EXPLODIDO_TRASEIRA.png",
+      "azimute_graus": 35,
+      "elevacao_graus": 24,
+      "descricao": "Traseira em perspectiva"
+    },
+    {
+      "arquivo": "EXPLODIDO_SUPERIOR.png",
+      "azimute_graus": -90,
+      "elevacao_graus": 70,
+      "descricao": "Superior em perspectiva"
+    }
+  ]
+}
