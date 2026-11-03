@@ -11,7 +11,10 @@
     220,
     250
   ],
-  "largura_400_inclui_pneus": "PENDENTE",
+  "largura_400_inclui_pneus": true,
   "encaixes_definitivos": false,
-  "compatibilidade_chassi_validada": false
+  "compatibilidade_chassi_validada": false,
+  "largura_externa_pneus_confirmada_mm": 400,
+  "largura_pneu_individual_mm": "PENDENTE",
+  "fixacoes_chassi": "PENDENTES"
 }

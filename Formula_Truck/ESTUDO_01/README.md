@@ -6,7 +6,7 @@
 
 Este é um estudo CAD de carroceria e cabine inspirado na fotografia fornecida, não uma reprodução dimensional exata do Mercedes-Benz real. Não imprimir como kit final: faltam os encaixes, fixações no chassi e validações da montagem.
 
-Dados confirmados: entre-eixos de 500 mm; rodas com pneus em torno de 200 mm de diâmetro externo; impressora 220 × 220 × 250 mm; referência de largura de 400 mm. Ainda é preciso saber se os 400 mm são externos dos pneus ou apenas do quadro. A largura dos pneus e os pontos de fixação do chassi não foram informados. Esses dados alteram posições de para-lamas e suportes. A altura da cabine e as demais proporções foram estimadas visualmente e são provisórias.
+Dados confirmados: entre-eixos de 500 mm; rodas com pneus em torno de 200 mm de diâmetro externo; impressora 220 × 220 × 250 mm; referência de largura de 400 mm. O usuário confirmou que os 400 mm são medidos de fora a fora dos pneus. A largura dos pneus e os pontos de fixação do chassi não foram informados. Esses dados alteram posições de para-lamas e suportes. A altura da cabine e as demais proporções foram estimadas visualmente e são provisórias.
 
 Os pneus e os vidros escuros mostrados nas imagens são referências visuais. A largura de pneus de 52 mm usada na imagem é provisória; não foram desenhados pneus ou rodas funcionais para fabricar. Os espelhos ultrapassam a largura nominal da carroceria. Os STEP contêm os componentes da carroceria, sem os volumes de referência de pneus e vidros.
 
