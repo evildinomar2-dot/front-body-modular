@@ -1,0 +1,102 @@
+{
+  "tipo": "roda_inspirada_TC4_5_raios_nivelada_na_borda_original",
+  "plano_borda_original_z_mm": -2.3,
+  "plano_raios_z_mm": -2.3,
+  "plano_miolo_z_mm": -2.3,
+  "plano_tampa_z_mm": -2.3,
+  "face_plana": true,
+  "acesso_fixacao_diametro_mm": 10,
+  "tampa_opcional": true,
+  "diametro_maximo_mm": 56.595510482788086,
+  "largura_axial_mm": 25.999999284744263,
+  "furo_eixo_mm": 4,
+  "hexagono_entre_faces_mm": 12.4,
+  "hexagono_fundo_z": -12.3,
+  "hexagono_entrada_z": -17.3,
+  "hub_original_preservado_raio_mm": 8.49,
+  "regiao_hub_preservada_ate_z": -10.301,
+  "diferenca_volume_hub_mm3": 0.0,
+  "barrel_original_preservado": true,
+  "raios": 5,
+  "furos_decorativos": 5,
+  "stl_fechado": true,
+  "solidos_stl": 1,
+  "cad_face_nativo": true,
+  "cad_completo_facetado_nao_fornecido": true,
+  "faces_stl": 260716,
+  "volume_mm3": 20458.31651250427,
+  "teste_fisico": false,
+  "medidas_stl_assumidas_mm": true,
+  "coordenadas_centralizadas": true,
+  "centro_original": [
+    -54.3,
+    0,
+    0
+  ],
+  "perfil_interno_corte": [
+    [
+      26,
+      -28.3
+    ],
+    [
+      24.5,
+      -26.8
+    ],
+    [
+      24.5,
+      -26.3
+    ],
+    [
+      21.5,
+      -20.3
+    ],
+    [
+      21.5,
+      -6.8
+    ],
+    [
+      23,
+      -5.3
+    ],
+    [
+      24,
+      -5.3
+    ],
+    [
+      24,
+      -4.3
+    ],
+    [
+      26,
+      -2.3
+    ]
+  ],
+  "verificacao_superficies_exportadas": [
+    {
+      "regiao": "miolo",
+      "z_mm": -2.299999952316284,
+      "desnivel_borda_mm": 4.7683715642676816e-08
+    },
+    {
+      "regiao": "raio_interno",
+      "z_mm": -2.299999952316284,
+      "desnivel_borda_mm": 4.7683715642676816e-08
+    },
+    {
+      "regiao": "raio_externo",
+      "z_mm": -2.299999952316284,
+      "desnivel_borda_mm": 4.7683715642676816e-08
+    },
+    {
+      "regiao": "borda_original",
+      "z_mm": -2.299999952316284,
+      "desnivel_borda_mm": 4.7683715642676816e-08
+    },
+    {
+      "regiao": "tampa",
+      "z_mm": -2.3,
+      "desnivel_borda_mm": 0.0
+    }
+  ],
+  "largura_original_incluindo_pontas_mm": 26.549577951431274
+}

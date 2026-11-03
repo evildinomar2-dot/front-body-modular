@@ -56,3 +56,6 @@ Leia [as instruções completas](INSTRUCOES.md) antes de modificar ou imprimir. 
 
 
 [Roda de sete raios nivelada com a borda — versão aprovada](Rodas/Sete_Raios_Nivelada/README.md).
+
+
+[Roda de cinco raios largos estilo TC4 — frente nivelada](Rodas/Cinco_Raios_TC4_Nivelada/README.md).
