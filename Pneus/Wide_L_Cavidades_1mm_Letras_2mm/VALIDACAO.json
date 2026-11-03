@@ -1,0 +1,817 @@
+{
+  "tipo": "pneu_cavidades_e_letras_soltas_para_colar",
+  "cavidade_mm": 1.0,
+  "letras_espessura_mm": 2.0,
+  "folga_lateral_por_face_mm": 0.15,
+  "folga_fundo_cola_mm": 0.05,
+  "saliencia_montada_mm": 1.05,
+  "pneu_solidos": 1,
+  "numero_letras_e_simbolo": 14,
+  "stl_fechados": true,
+  "assento_roda_preservado": true,
+  "dimensoes_pneu_mm": [
+    77.26576614379883,
+    77.26251220703125,
+    37.13049152493477
+  ],
+  "dimensoes_bandeja_letras_mm": [
+    57.25465567596783,
+    19.494505565289323,
+    2.572127659910955
+  ],
+  "sem_interpenetracao_letras_pneu": true,
+  "cavidades_sem_sobreposicao": true,
+  "teste_fisico": false,
+  "letras_curvadas": true,
+  "teste_O_incluido": true,
+  "letras": [
+    {
+      "nome": "GOODYEAR_01_G",
+      "palavra": "GOODYEAR",
+      "caractere": "G",
+      "angulo_graus": 130.3994787254286,
+      "altura_visual_mm": 4.8,
+      "raio_centro_mm": 32.0,
+      "espessura_letra_mm": 2.0,
+      "profundidade_cavidade_mm": 1.0,
+      "folga_lateral_por_face_mm": 0.15,
+      "folga_fundo_cola_mm": 0.05,
+      "saliencia_montada_nominal_mm": 1.05,
+      "matriz_impressao": [
+        [
+          0.8305214287820282,
+          0.553262982672597,
+          -0.06429796527169493,
+          8.087768421785011
+        ],
+        [
+          -0.5443202146639169,
+          0.8306871410777432,
+          0.11693749422795484,
+          -26.897983549373514
+        ],
+        [
+          0.11810867979147814,
+          -0.0621204125252492,
+          0.9910556967726925,
+          5.550513777467502
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensoes_impressao_mm": [
+        4.5402190955199035,
+        5.201793694918393,
+        2.5211013610012913
+      ]
+    },
+    {
+      "nome": "GOODYEAR_02_O",
+      "palavra": "GOODYEAR",
+      "caractere": "O",
+      "angulo_graus": 119.97578032972973,
+      "altura_visual_mm": 4.8,
+      "raio_centro_mm": 32.0,
+      "espessura_letra_mm": 2.0,
+      "profundidade_cavidade_mm": 1.0,
+      "folga_lateral_por_face_mm": 0.15,
+      "folga_fundo_cola_mm": 0.05,
+      "saliencia_montada_nominal_mm": 1.05,
+      "matriz_impressao": [
+        [
+          0.9166679051208187,
+          0.3993350868937374,
+          -0.015856862772357667,
+          8.012694452728685
+        ],
+        [
+          -0.39523868930253464,
+          0.9117151603061913,
+          0.1120796366262423,
+          -26.9501800475219
+        ],
+        [
+          0.05921427361561285,
+          -0.09647256005428302,
+          0.9935727024011624,
+          5.190459095927707
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensoes_impressao_mm": [
+        4.857213250999983,
+        5.160497373776554,
+        2.410427884493874
+      ]
+    },
+    {
+      "nome": "GOODYEAR_03_O",
+      "palavra": "GOODYEAR",
+      "caractere": "O",
+      "angulo_graus": 109.34679364204555,
+      "altura_visual_mm": 4.8,
+      "raio_centro_mm": 32.0,
+      "espessura_letra_mm": 2.0,
+      "profundidade_cavidade_mm": 1.0,
+      "folga_lateral_por_face_mm": 0.15,
+      "folga_fundo_cola_mm": 0.05,
+      "saliencia_montada_nominal_mm": 1.05,
+      "matriz_impressao": [
+        [
+          0.9746279596604658,
+          0.22326852077632503,
+          -0.015858999918950574,
+          8.017085025933916
+        ],
+        [
+          -0.22015083027990262,
+          0.9689894256475858,
+          0.1122190042293695,
+          -26.94892980215735
+        ],
+        [
+          0.04042217430009251,
+          -0.1058804071276337,
+          0.9935569370757468,
+          5.180823321122736
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensoes_impressao_mm": [
+        4.857078615777837,
+        5.16077517201775,
+        2.3962611840416854
+      ]
+    },
+    {
+      "nome": "GOODYEAR_04_D",
+      "palavra": "GOODYEAR",
+      "caractere": "D",
+      "angulo_graus": 98.62688194780843,
+      "altura_visual_mm": 4.8,
+      "raio_centro_mm": 32.0,
+      "espessura_letra_mm": 2.0,
+      "profundidade_cavidade_mm": 1.0,
+      "folga_lateral_por_face_mm": 0.15,
+      "folga_fundo_cola_mm": 0.05,
+      "saliencia_montada_nominal_mm": 1.05,
+      "matriz_impressao": [
+        [
+          0.9678103529938044,
+          0.24629546092551322,
+          0.05178481018114173,
+          1.685046044449917
+        ],
+        [
+          -0.25036951173640665,
+          0.9631431497150599,
+          0.09833809409291638,
+          -27.176152089571552
+        ],
+        [
+          -0.025655958974110223,
+          -0.10813796319721834,
+          0.9938047860041106,
+          4.868353644502095
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensoes_impressao_mm": [
+        5.436922683768509,
+        5.10809490186136,
+        2.486121195172034
+      ]
+    },
+    {
+      "nome": "GOODYEAR_05_FOOT",
+      "palavra": "GOODYEAR",
+      "caractere": "FOOT",
+      "angulo_graus": 89.03031886720991,
+      "altura_visual_mm": 4.8,
+      "raio_centro_mm": 32.0,
+      "espessura_letra_mm": 2.0,
+      "profundidade_cavidade_mm": 1.0,
+      "folga_lateral_por_face_mm": 0.15,
+      "folga_fundo_cola_mm": 0.05,
+      "saliencia_montada_nominal_mm": 1.05,
+      "matriz_impressao": [
+        [
+          0.9916666544865093,
+          -0.12712353307859178,
+          -0.020901045838679373,
+          7.09870593725924
+        ],
+        [
+          0.1286624605578368,
+          0.9855327489092864,
+          0.11032303508564521,
+          -26.82645114567106
+        ],
+        [
+          0.006574011160432278,
+          -0.1120928551020162,
+          0.9936759905584622,
+          5.167535363661419
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensoes_impressao_mm": [
+        3.274711440532225,
+        5.388622941944378,
+        2.4114534017146783
+      ]
+    },
+    {
+      "nome": "GOODYEAR_06_Y",
+      "palavra": "GOODYEAR",
+      "caractere": "Y",
+      "angulo_graus": 79.5460062160597,
+      "altura_visual_mm": 4.8,
+      "raio_centro_mm": 32.0,
+      "espessura_letra_mm": 2.0,
+      "profundidade_cavidade_mm": 1.0,
+      "folga_lateral_por_face_mm": 0.15,
+      "folga_fundo_cola_mm": 0.05,
+      "saliencia_montada_nominal_mm": 1.05,
+      "matriz_impressao": [
+        [
+          0.9619208769132034,
+          -0.2729977609547231,
+          -0.013433133373907367,
+          7.686043569917856
+        ],
+        [
+          0.2730290427044407,
+          0.9574091979169647,
+          0.09392959908298879,
+          -27.018732269813196
+        ],
+        [
+          -0.012781564788006898,
+          -0.09402047786361313,
+          0.9954882125589772,
+          4.631613905721818
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensoes_impressao_mm": [
+        4.918305412334618,
+        5.366613338540849,
+        2.4269644885244057
+      ]
+    },
+    {
+      "nome": "GOODYEAR_07_E",
+      "palavra": "GOODYEAR",
+      "caractere": "E",
+      "angulo_graus": 69.5324362879189,
+      "altura_visual_mm": 4.8,
+      "raio_centro_mm": 32.0,
+      "espessura_letra_mm": 2.0,
+      "profundidade_cavidade_mm": 1.0,
+      "folga_lateral_por_face_mm": 0.15,
+      "folga_fundo_cola_mm": 0.05,
+      "saliencia_montada_nominal_mm": 1.05,
+      "matriz_impressao": [
+        [
+          0.8926755818666873,
+          -0.44960575613947373,
+          -0.03138422510152913,
+          7.357440711331097
+        ],
+        [
+          0.45019967475714506,
+          0.886240989533771,
+          0.10907410929621844,
+          -26.8011023549377
+        ],
+        [
+          -0.021226360675636144,
+          -0.11149696191580587,
+          0.993538056189099,
+          5.193737493284963
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensoes_impressao_mm": [
+        3.767860797472129,
+        5.494505565289321,
+        2.4707089842807832
+      ]
+    },
+    {
+      "nome": "GOODYEAR_08_A",
+      "palavra": "GOODYEAR",
+      "caractere": "A",
+      "angulo_graus": 59.46130194633564,
+      "altura_visual_mm": 4.8,
+      "raio_centro_mm": 32.0,
+      "espessura_letra_mm": 2.0,
+      "profundidade_cavidade_mm": 1.0,
+      "folga_lateral_por_face_mm": 0.15,
+      "folga_fundo_cola_mm": 0.05,
+      "saliencia_montada_nominal_mm": 1.05,
+      "matriz_impressao": [
+        [
+          0.915076839066804,
+          -0.4029305411672656,
+          0.01677371748185588,
+          1.0099350054962608
+        ],
+        [
+          0.3983636833257444,
+          0.9096146257824482,
+          0.1179305234865118,
+          -26.674202299306017
+        ],
+        [
+          -0.06277542839879824,
+          -0.10123345078239301,
+          0.992880171033764,
+          5.413923623396356
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensoes_impressao_mm": [
+        4.97494336332422,
+        5.292003865935671,
+        2.430397926641156
+      ]
+    },
+    {
+      "nome": "GOODYEAR_09_R",
+      "palavra": "GOODYEAR",
+      "caractere": "R",
+      "angulo_graus": 49.300942917330545,
+      "altura_visual_mm": 4.8,
+      "raio_centro_mm": 32.0,
+      "espessura_letra_mm": 2.0,
+      "profundidade_cavidade_mm": 1.0,
+      "folga_lateral_por_face_mm": 0.15,
+      "folga_fundo_cola_mm": 0.05,
+      "saliencia_montada_nominal_mm": 1.05,
+      "matriz_impressao": [
+        [
+          0.7935463670169115,
+          -0.6081513608770646,
+          0.020882664045450982,
+          2.550538953357865
+        ],
+        [
+          0.6063806508730305,
+          0.7931722911754611,
+          0.056393463790314145,
+          -27.28087178501822
+        ],
+        [
+          -0.05085931223542854,
+          -0.032087984898460355,
+          0.9981902081187207,
+          3.5421430490831147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensoes_impressao_mm": [
+        4.627401016238403,
+        5.116894871429174,
+        2.572127659910955
+      ]
+    },
+    {
+      "nome": "EAGLE_01_E",
+      "palavra": "EAGLE",
+      "caractere": "E",
+      "angulo_graus": 286.07099853790965,
+      "altura_visual_mm": 4.2,
+      "raio_centro_mm": 32.0,
+      "espessura_letra_mm": 2.0,
+      "profundidade_cavidade_mm": 1.0,
+      "folga_lateral_por_face_mm": 0.15,
+      "folga_fundo_cola_mm": 0.05,
+      "saliencia_montada_nominal_mm": 1.05,
+      "matriz_impressao": [
+        [
+          -0.9856006873178972,
+          -0.16644934971108297,
+          -0.029764057842411054,
+          7.241665927759412
+        ],
+        [
+          0.16214268730220166,
+          -0.9802876345063083,
+          0.11289775280512428,
+          -27.101355730719742
+        ],
+        [
+          -0.047969095393901665,
+          0.10644607843778982,
+          0.993160711200512,
+          5.169204228638514
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensoes_impressao_mm": [
+        3.284659388924692,
+        4.854930155311198,
+        2.3199294824162395
+      ]
+    },
+    {
+      "nome": "EAGLE_02_A",
+      "palavra": "EAGLE",
+      "caractere": "A",
+      "angulo_graus": 277.6616168939633,
+      "altura_visual_mm": 4.2,
+      "raio_centro_mm": 32.0,
+      "espessura_letra_mm": 2.0,
+      "profundidade_cavidade_mm": 1.0,
+      "folga_lateral_por_face_mm": 0.15,
+      "folga_fundo_cola_mm": 0.05,
+      "saliencia_montada_nominal_mm": 1.05,
+      "matriz_impressao": [
+        [
+          -0.9674887080503587,
+          -0.25210146238761183,
+          0.020259626281726062,
+          0.5810450776831617
+        ],
+        [
+          0.25267397149410226,
+          -0.9599729056826704,
+          0.1208630815616103,
+          -26.98528749251796
+        ],
+        [
+          -0.01102106730064157,
+          0.12205274686461749,
+          0.9924624240032246,
+          5.388781494218074
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensoes_impressao_mm": [
+        4.3624047429946256,
+        4.6776360790578355,
+        2.3008561795995623
+      ]
+    },
+    {
+      "nome": "EAGLE_03_G",
+      "palavra": "EAGLE",
+      "caractere": "G",
+      "angulo_graus": 268.91203258593714,
+      "altura_visual_mm": 4.2,
+      "raio_centro_mm": 32.0,
+      "espessura_letra_mm": 2.0,
+      "profundidade_cavidade_mm": 1.0,
+      "folga_lateral_por_face_mm": 0.15,
+      "folga_fundo_cola_mm": 0.05,
+      "saliencia_montada_nominal_mm": 1.05,
+      "matriz_impressao": [
+        [
+          -0.9890118584153399,
+          0.13526892593291165,
+          -0.05964781295900385,
+          7.782901767957618
+        ],
+        [
+          -0.1414798369101097,
+          -0.9830662212833563,
+          0.1164657044779792,
+          -27.222743891017622
+        ],
+        [
+          -0.04288355934066849,
+          0.1236249256769026,
+          0.991401976036792,
+          5.379051616669443
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensoes_impressao_mm": [
+        3.9809857574042127,
+        4.576034660858101,
+        2.360039117991953
+      ]
+    },
+    {
+      "nome": "EAGLE_04_L",
+      "palavra": "EAGLE",
+      "caractere": "L",
+      "angulo_graus": 261.25041569197384,
+      "altura_visual_mm": 4.2,
+      "raio_centro_mm": 32.0,
+      "espessura_letra_mm": 2.0,
+      "profundidade_cavidade_mm": 1.0,
+      "folga_lateral_por_face_mm": 0.15,
+      "folga_fundo_cola_mm": 0.05,
+      "saliencia_montada_nominal_mm": 1.05,
+      "matriz_impressao": [
+        [
+          -0.9611787536063415,
+          0.27263587064522266,
+          -0.04248629959505756,
+          7.254816744918281
+        ],
+        [
+          -0.2758402126158101,
+          -0.9532686219158549,
+          0.12325222746348861,
+          -27.01722282527465
+        ],
+        [
+          -0.0068978779218131225,
+          0.13018685228612092,
+          0.991465482390591,
+          5.591779845556513
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensoes_impressao_mm": [
+        3.0850619646748596,
+        4.681427498867663,
+        2.3268507003452585
+      ]
+    },
+    {
+      "nome": "EAGLE_05_E",
+      "palavra": "EAGLE",
+      "caractere": "E",
+      "angulo_graus": 253.92900146209035,
+      "altura_visual_mm": 4.2,
+      "raio_centro_mm": 32.0,
+      "espessura_letra_mm": 2.0,
+      "profundidade_cavidade_mm": 1.0,
+      "folga_lateral_por_face_mm": 0.15,
+      "folga_fundo_cola_mm": 0.05,
+      "saliencia_montada_nominal_mm": 1.05,
+      "matriz_impressao": [
+        [
+          -0.9231334191644742,
+          0.38330780360461353,
+          -0.029996968472065042,
+          7.238184517178274
+        ],
+        [
+          -0.38415740328080644,
+          -0.9163537039211669,
+          0.11277845013346388,
+          -27.102465832037925
+        ],
+        [
+          0.015741026848807224,
+          0.1156331137942994,
+          0.9931672583547947,
+          5.172233024340169
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensoes_impressao_mm": [
+        3.2862264618204042,
+        4.851820612804916,
+        2.3262562624802303
+      ]
+    }
+  ],
+  "disposicao_bandeja": [
+    {
+      "nome": "GOODYEAR_01_G",
+      "x_min_mm": 2.0,
+      "y_min_mm": 16.0
+    },
+    {
+      "nome": "GOODYEAR_02_O",
+      "x_min_mm": 8.540219095519904,
+      "y_min_mm": 16.0
+    },
+    {
+      "nome": "GOODYEAR_03_O",
+      "x_min_mm": 15.397432346519887,
+      "y_min_mm": 16.0
+    },
+    {
+      "nome": "GOODYEAR_04_D",
+      "x_min_mm": 22.254510962297726,
+      "y_min_mm": 16.0
+    },
+    {
+      "nome": "GOODYEAR_05_FOOT",
+      "x_min_mm": 29.691433646066233,
+      "y_min_mm": 16.0
+    },
+    {
+      "nome": "GOODYEAR_06_Y",
+      "x_min_mm": 34.96614508659846,
+      "y_min_mm": 16.0
+    },
+    {
+      "nome": "GOODYEAR_07_E",
+      "x_min_mm": 41.88445049893308,
+      "y_min_mm": 16.0
+    },
+    {
+      "nome": "GOODYEAR_08_A",
+      "x_min_mm": 47.65231129640521,
+      "y_min_mm": 16.0
+    },
+    {
+      "nome": "GOODYEAR_09_R",
+      "x_min_mm": 54.62725465972943,
+      "y_min_mm": 16.0
+    },
+    {
+      "nome": "EAGLE_01_E",
+      "x_min_mm": 2.0,
+      "y_min_mm": 2.0
+    },
+    {
+      "nome": "EAGLE_02_A",
+      "x_min_mm": 7.284659388924692,
+      "y_min_mm": 2.0
+    },
+    {
+      "nome": "EAGLE_03_G",
+      "x_min_mm": 13.647064131919318,
+      "y_min_mm": 2.0
+    },
+    {
+      "nome": "EAGLE_04_L",
+      "x_min_mm": 19.62804988932353,
+      "y_min_mm": 2.0
+    },
+    {
+      "nome": "EAGLE_05_E",
+      "x_min_mm": 24.71311185399839,
+      "y_min_mm": 2.0
+    }
+  ],
+  "medicoes": [
+    {
+      "nome": "GOODYEAR_01_G",
+      "profundidade_min_mm": 0.9999117546817935,
+      "profundidade_max_mm": 1.0015675191977547,
+      "espessura_min_mm": 1.999676351381778,
+      "espessura_max_mm": 2.0001043734647084
+    },
+    {
+      "nome": "GOODYEAR_02_O",
+      "profundidade_min_mm": 0.9996505726350957,
+      "profundidade_max_mm": 1.0018779672674523,
+      "espessura_min_mm": 1.9999935554433161,
+      "espessura_max_mm": 2.0003041913989623
+    },
+    {
+      "nome": "GOODYEAR_03_O",
+      "profundidade_min_mm": 0.9999363426506722,
+      "profundidade_max_mm": 1.000777445018473,
+      "espessura_min_mm": 1.999999999992749,
+      "espessura_max_mm": 2.00005713576868
+    },
+    {
+      "nome": "GOODYEAR_04_D",
+      "profundidade_min_mm": 0.9998762289122585,
+      "profundidade_max_mm": 1.001353807851011,
+      "espessura_min_mm": 1.9999174840279554,
+      "espessura_max_mm": 2.0006343656897005
+    },
+    {
+      "nome": "GOODYEAR_05_FOOT",
+      "profundidade_min_mm": 0.9999999701523272,
+      "profundidade_max_mm": 1.010821430460755,
+      "espessura_min_mm": 1.9998075339838302,
+      "espessura_max_mm": 2.0013702115066003
+    },
+    {
+      "nome": "GOODYEAR_06_Y",
+      "profundidade_min_mm": 0.9750168953563172,
+      "profundidade_max_mm": 1.0062260240851302,
+      "espessura_min_mm": 1.999030269087303,
+      "espessura_max_mm": 2.0000000000000018
+    },
+    {
+      "nome": "GOODYEAR_07_E",
+      "profundidade_min_mm": 1.000216850287421,
+      "profundidade_max_mm": 1.0023862163492154,
+      "espessura_min_mm": 1.9962135622937858,
+      "espessura_max_mm": 2.000491599729809
+    },
+    {
+      "nome": "GOODYEAR_08_A",
+      "profundidade_min_mm": 0.9997349988460194,
+      "profundidade_max_mm": 1.0043676919101046,
+      "espessura_min_mm": 1.9995912086177636,
+      "espessura_max_mm": 2.000258572538007
+    },
+    {
+      "nome": "GOODYEAR_09_R",
+      "profundidade_min_mm": 0.999999950603149,
+      "profundidade_max_mm": 1.0028862099154665,
+      "espessura_min_mm": 1.9995352894901455,
+      "espessura_max_mm": 2.000188957479139
+    },
+    {
+      "nome": "EAGLE_01_E",
+      "profundidade_min_mm": 0.9998826201527518,
+      "profundidade_max_mm": 1.0060997139518264,
+      "espessura_min_mm": 1.9999999999999982,
+      "espessura_max_mm": 2.0001824351527784
+    },
+    {
+      "nome": "EAGLE_02_A",
+      "profundidade_min_mm": 1.0001807131197147,
+      "profundidade_max_mm": 1.0024854116170996,
+      "espessura_min_mm": 1.9999999921006602,
+      "espessura_max_mm": 2.001637380730287
+    },
+    {
+      "nome": "EAGLE_03_G",
+      "profundidade_min_mm": 0.9998531593230364,
+      "profundidade_max_mm": 1.001775360079522,
+      "espessura_min_mm": 1.9998245542577369,
+      "espessura_max_mm": 2.0000955989296134
+    },
+    {
+      "nome": "EAGLE_04_L",
+      "profundidade_min_mm": 0.9994876771426888,
+      "profundidade_max_mm": 1.0024662003881737,
+      "espessura_min_mm": 1.9975763685323837,
+      "espessura_max_mm": 2.0012294325088185
+    },
+    {
+      "nome": "EAGLE_05_E",
+      "profundidade_min_mm": 0.9999999520233089,
+      "profundidade_max_mm": 1.0172216887794718,
+      "espessura_min_mm": 1.9985821529490657,
+      "espessura_max_mm": 2.0
+    }
+  ]
+}

@@ -62,3 +62,6 @@ Leia [as instruções completas](INSTRUCOES.md) antes de modificar ou imprimir. 
 
 
 [Pneu Wide L com GOODYEAR / EAGLE — revisão com relevo de 1 mm](Pneus/Wide_L_GOODYEAR_EAGLE_1mm/README.md).
+
+
+[Pneu com cavidades de 1 mm e letras separadas de 2 mm para colar](Pneus/Wide_L_Cavidades_1mm_Letras_2mm/README.md).
