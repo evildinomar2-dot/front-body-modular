@@ -1,0 +1,17 @@
+{
+  "status": "ESTUDO_PROVISORIO_NAO_IMPRIMIR_COMO_KIT_FINAL",
+  "solidos_carroceria": 28,
+  "solidos_divisao_cabine": 20,
+  "step_valido": true,
+  "reimportacao_valida": true,
+  "entre_eixos_mm": 500,
+  "diametro_pneu_referencia_mm": 200,
+  "impressora_mm": [
+    220,
+    220,
+    250
+  ],
+  "largura_400_inclui_pneus": "PENDENTE",
+  "encaixes_definitivos": false,
+  "compatibilidade_chassi_validada": false
+}

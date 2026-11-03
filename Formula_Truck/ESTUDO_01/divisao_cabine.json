@@ -1,0 +1,435 @@
+{
+  "status": "DIVISAO_PRELIMINAR_SEM_ENCAIXES_FINAIS",
+  "impressora_mm": [
+    220,
+    220,
+    250
+  ],
+  "envelope_validado_mm": [
+    218,
+    218,
+    248
+  ],
+  "pecas": [
+    {
+      "nome": "teto_1_1_1",
+      "solido_valido": true,
+      "dimensoes_xyz_mm": [
+        138.564095606614,
+        178.45582897626375,
+        32.00000020000016
+      ],
+      "ordem_eixos_impressao_sugerida": [
+        0,
+        1,
+        2
+      ],
+      "dimensoes_orientadas_mm": [
+        138.564095606614,
+        178.45582897626375,
+        32.00000020000016
+      ],
+      "cabe_em_envelope_218_218_248": true,
+      "encaixes_definitivos": false
+    },
+    {
+      "nome": "teto_1_1_2",
+      "solido_valido": true,
+      "dimensoes_xyz_mm": [
+        138.564095606614,
+        178.45582897626588,
+        32.00000020000016
+      ],
+      "ordem_eixos_impressao_sugerida": [
+        0,
+        1,
+        2
+      ],
+      "dimensoes_orientadas_mm": [
+        138.564095606614,
+        178.45582897626588,
+        32.00000020000016
+      ],
+      "cabe_em_envelope_218_218_248": true,
+      "encaixes_definitivos": false
+    },
+    {
+      "nome": "teto_1_2_1",
+      "solido_valido": true,
+      "dimensoes_xyz_mm": [
+        135.70489203698642,
+        178.4558289762637,
+        32.000000200000045
+      ],
+      "ordem_eixos_impressao_sugerida": [
+        0,
+        1,
+        2
+      ],
+      "dimensoes_orientadas_mm": [
+        135.70489203698642,
+        178.4558289762637,
+        32.000000200000045
+      ],
+      "cabe_em_envelope_218_218_248": true,
+      "encaixes_definitivos": false
+    },
+    {
+      "nome": "teto_1_2_2",
+      "solido_valido": true,
+      "dimensoes_xyz_mm": [
+        135.70489203698642,
+        178.45582897626588,
+        32.000000200000045
+      ],
+      "ordem_eixos_impressao_sugerida": [
+        0,
+        1,
+        2
+      ],
+      "dimensoes_orientadas_mm": [
+        135.70489203698642,
+        178.45582897626588,
+        32.000000200000045
+      ],
+      "cabe_em_envelope_218_218_248": true,
+      "encaixes_definitivos": false
+    },
+    {
+      "nome": "traseiro_1_1_1",
+      "solido_valido": true,
+      "dimensoes_xyz_mm": [
+        35.14777671104582,
+        188.00000020000002,
+        160.0000002000002
+      ],
+      "ordem_eixos_impressao_sugerida": [
+        1,
+        2,
+        0
+      ],
+      "dimensoes_orientadas_mm": [
+        188.00000020000002,
+        160.0000002000002,
+        35.14777671104582
+      ],
+      "cabe_em_envelope_218_218_248": true,
+      "encaixes_definitivos": false
+    },
+    {
+      "nome": "traseiro_1_1_2",
+      "solido_valido": true,
+      "dimensoes_xyz_mm": [
+        35.14777671104855,
+        188.00000020000002,
+        160.00000020000013
+      ],
+      "ordem_eixos_impressao_sugerida": [
+        1,
+        2,
+        0
+      ],
+      "dimensoes_orientadas_mm": [
+        188.00000020000002,
+        160.00000020000013,
+        35.14777671104855
+      ],
+      "cabe_em_envelope_218_218_248": true,
+      "encaixes_definitivos": false
+    },
+    {
+      "nome": "traseiro_2_1_1",
+      "solido_valido": true,
+      "dimensoes_xyz_mm": [
+        32.64311575487051,
+        185.34505053141467,
+        158.0000002000054
+      ],
+      "ordem_eixos_impressao_sugerida": [
+        1,
+        2,
+        0
+      ],
+      "dimensoes_orientadas_mm": [
+        185.34505053141467,
+        158.0000002000054,
+        32.64311575487051
+      ],
+      "cabe_em_envelope_218_218_248": true,
+      "encaixes_definitivos": false
+    },
+    {
+      "nome": "traseiro_2_1_2",
+      "solido_valido": true,
+      "dimensoes_xyz_mm": [
+        32.64311575487034,
+        185.3450505314464,
+        158.00000020000147
+      ],
+      "ordem_eixos_impressao_sugerida": [
+        1,
+        2,
+        0
+      ],
+      "dimensoes_orientadas_mm": [
+        185.3450505314464,
+        158.00000020000147,
+        32.64311575487034
+      ],
+      "cabe_em_envelope_218_218_248": true,
+      "encaixes_definitivos": false
+    },
+    {
+      "nome": "frente_1_1_1",
+      "solido_valido": true,
+      "dimensoes_xyz_mm": [
+        53.80985803205341,
+        188.00000020000002,
+        150.00000020000033
+      ],
+      "ordem_eixos_impressao_sugerida": [
+        1,
+        2,
+        0
+      ],
+      "dimensoes_orientadas_mm": [
+        188.00000020000002,
+        150.00000020000033,
+        53.80985803205341
+      ],
+      "cabe_em_envelope_218_218_248": true,
+      "encaixes_definitivos": false
+    },
+    {
+      "nome": "frente_1_1_2",
+      "solido_valido": true,
+      "dimensoes_xyz_mm": [
+        53.809858032055345,
+        188.0000002,
+        150.00000020000027
+      ],
+      "ordem_eixos_impressao_sugerida": [
+        1,
+        2,
+        0
+      ],
+      "dimensoes_orientadas_mm": [
+        188.0000002,
+        150.00000020000027,
+        53.809858032055345
+      ],
+      "cabe_em_envelope_218_218_248": true,
+      "encaixes_definitivos": false
+    },
+    {
+      "nome": "frente_2_1_1",
+      "solido_valido": true,
+      "dimensoes_xyz_mm": [
+        51.705186572663095,
+        185.57828835248077,
+        168.0000002000041
+      ],
+      "ordem_eixos_impressao_sugerida": [
+        1,
+        2,
+        0
+      ],
+      "dimensoes_orientadas_mm": [
+        185.57828835248077,
+        168.0000002000041,
+        51.705186572663095
+      ],
+      "cabe_em_envelope_218_218_248": true,
+      "encaixes_definitivos": false
+    },
+    {
+      "nome": "frente_2_1_2",
+      "solido_valido": true,
+      "dimensoes_xyz_mm": [
+        51.705186572663095,
+        185.5782883525259,
+        168.00000020000041
+      ],
+      "ordem_eixos_impressao_sugerida": [
+        1,
+        2,
+        0
+      ],
+      "dimensoes_orientadas_mm": [
+        185.5782883525259,
+        168.00000020000041,
+        51.705186572663095
+      ],
+      "cabe_em_envelope_218_218_248": true,
+      "encaixes_definitivos": false
+    },
+    {
+      "nome": "lateral_Ypositivo_1_1",
+      "solido_valido": true,
+      "dimensoes_xyz_mm": [
+        40.00000020000043,
+        4.231804544425927,
+        74.37822193688984
+      ],
+      "ordem_eixos_impressao_sugerida": [
+        0,
+        2,
+        1
+      ],
+      "dimensoes_orientadas_mm": [
+        40.00000020000043,
+        74.37822193688984,
+        4.231804544425927
+      ],
+      "cabe_em_envelope_218_218_248": true,
+      "encaixes_definitivos": false
+    },
+    {
+      "nome": "lateral_Ypositivo_1_2",
+      "solido_valido": true,
+      "dimensoes_xyz_mm": [
+        40.00000020000681,
+        10.486111011531762,
+        183.0000002000007
+      ],
+      "ordem_eixos_impressao_sugerida": [
+        0,
+        2,
+        1
+      ],
+      "dimensoes_orientadas_mm": [
+        40.00000020000681,
+        183.0000002000007,
+        10.486111011531762
+      ],
+      "cabe_em_envelope_218_218_248": true,
+      "encaixes_definitivos": false
+    },
+    {
+      "nome": "lateral_Ypositivo_2_1",
+      "solido_valido": true,
+      "dimensoes_xyz_mm": [
+        200.0000002000001,
+        4.581202845982773,
+        99.29285814074203
+      ],
+      "ordem_eixos_impressao_sugerida": [
+        0,
+        2,
+        1
+      ],
+      "dimensoes_orientadas_mm": [
+        200.0000002000001,
+        99.29285814074203,
+        4.581202845982773
+      ],
+      "cabe_em_envelope_218_218_248": true,
+      "encaixes_definitivos": false
+    },
+    {
+      "nome": "lateral_Ypositivo_2_2",
+      "solido_valido": true,
+      "dimensoes_xyz_mm": [
+        200.0000002000004,
+        10.48611101207959,
+        183.00000020000002
+      ],
+      "ordem_eixos_impressao_sugerida": [
+        0,
+        2,
+        1
+      ],
+      "dimensoes_orientadas_mm": [
+        200.0000002000004,
+        183.00000020000002,
+        10.48611101207959
+      ],
+      "cabe_em_envelope_218_218_248": true,
+      "encaixes_definitivos": false
+    },
+    {
+      "nome": "lateral_Ynegativo_1_1",
+      "solido_valido": true,
+      "dimensoes_xyz_mm": [
+        40.00000020000034,
+        4.23180454441254,
+        74.37822193591941
+      ],
+      "ordem_eixos_impressao_sugerida": [
+        0,
+        2,
+        1
+      ],
+      "dimensoes_orientadas_mm": [
+        40.00000020000034,
+        74.37822193591941,
+        4.23180454441254
+      ],
+      "cabe_em_envelope_218_218_248": true,
+      "encaixes_definitivos": false
+    },
+    {
+      "nome": "lateral_Ynegativo_1_2",
+      "solido_valido": true,
+      "dimensoes_xyz_mm": [
+        40.00000020000846,
+        10.48611101150371,
+        183.00000020000041
+      ],
+      "ordem_eixos_impressao_sugerida": [
+        0,
+        2,
+        1
+      ],
+      "dimensoes_orientadas_mm": [
+        40.00000020000846,
+        183.00000020000041,
+        10.48611101150371
+      ],
+      "cabe_em_envelope_218_218_248": true,
+      "encaixes_definitivos": false
+    },
+    {
+      "nome": "lateral_Ynegativo_2_1",
+      "solido_valido": true,
+      "dimensoes_xyz_mm": [
+        200.00000020000007,
+        4.5812028460086935,
+        99.29285811216167
+      ],
+      "ordem_eixos_impressao_sugerida": [
+        0,
+        2,
+        1
+      ],
+      "dimensoes_orientadas_mm": [
+        200.00000020000007,
+        99.29285811216167,
+        4.5812028460086935
+      ],
+      "cabe_em_envelope_218_218_248": true,
+      "encaixes_definitivos": false
+    },
+    {
+      "nome": "lateral_Ynegativo_2_2",
+      "solido_valido": true,
+      "dimensoes_xyz_mm": [
+        200.00000020000044,
+        10.486111012086354,
+        183.00000020000013
+      ],
+      "ordem_eixos_impressao_sugerida": [
+        0,
+        2,
+        1
+      ],
+      "dimensoes_orientadas_mm": [
+        200.00000020000044,
+        183.00000020000013,
+        10.486111012086354
+      ],
+      "cabe_em_envelope_218_218_248": true,
+      "encaixes_definitivos": false
+    }
+  ]
+}
