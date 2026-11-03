@@ -24,3 +24,6 @@ Recorte do CAD entregue. Laranja: painéis e alojamentos. Amarelo: chaveta solta
 ![Encaixe no para-lama](DETALHE_PARALAMA.png)
 
 A conferência digital não encontrou interpenetrações acima de 0,15 mm³ nem invasão dos pneus de referência. Os STL foram gerados com desvio absoluto de 0,025 mm, sem reparos de malha.
+
+
+[Três imagens: montado pela frente, traseira e explodido com encaixes](IMAGENS/README.md).
