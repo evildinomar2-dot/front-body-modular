@@ -1,5 +1,15 @@
 # Carroceria modular para Fusion
 
+## Para-choque dianteiro dividido
+
+[**BAIXAR PARA-CHOQUE — DUAS METADES E TRÊS CHAVETAS**](https://github.com/evildinomar2-dot/front-body-modular/raw/refs/heads/main/Parachoque_dianteiro/Front_Bumper_Dividido_Fusion.zip)
+
+Emenda por chavetas dentro das paredes, sem ocupar o vão da grade. Inclui STL orientados para impressão e montagem STEP. [Instruções e detalhes da emenda](Parachoque_dianteiro/README.md).
+
+![Para-choque dividido](Parachoque_dianteiro/EXPLODIDO.png)
+
+---
+
 ## Traseira — Rear Body V1
 
 [**BAIXAR O PACOTE DA TRASEIRA**](https://github.com/evildinomar2-dot/front-body-modular/raw/refs/heads/main/Traseira/Rear_Body_Modular_Fusion.zip)
