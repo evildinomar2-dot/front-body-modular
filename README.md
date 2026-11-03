@@ -61,4 +61,4 @@ Leia [as instruções completas](INSTRUCOES.md) antes de modificar ou imprimir. 
 [Roda de cinco raios largos estilo TC4 — frente nivelada](Rodas/Cinco_Raios_TC4_Nivelada/README.md).
 
 
-[Pneu Wide L com GOODYEAR / EAGLE em relevo de 2 mm](Pneus/Wide_L_GOODYEAR_EAGLE_2mm/README.md).
+[Pneu Wide L com GOODYEAR / EAGLE — revisão com relevo de 1 mm](Pneus/Wide_L_GOODYEAR_EAGLE_1mm/README.md).

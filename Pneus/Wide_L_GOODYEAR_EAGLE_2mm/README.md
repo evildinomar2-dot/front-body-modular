@@ -1,3 +1,5 @@
+**Revisão mais recente solicitada: [relevo de 1 mm](../Wide_L_GOODYEAR_EAGLE_1mm/README.md).**
+
 # Pneu Wide L — GOODYEAR / EAGLE com relevo de 2 mm
 
 [Baixar o pneu em STL e as imagens](Pneu_Wide_L_GOODYEAR_EAGLE_2mm.zip)
