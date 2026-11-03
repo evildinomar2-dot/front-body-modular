@@ -65,3 +65,6 @@ Leia [as instruções completas](INSTRUCOES.md) antes de modificar ou imprimir. 
 
 
 [Pneu com cavidades de 1 mm e letras separadas de 2 mm para colar](Pneus/Wide_L_Cavidades_1mm_Letras_2mm/README.md).
+
+
+[Revisão do kit de pneu e letras com grades cortáveis para montagem](Pneus/Wide_L_Cavidades_1mm_Letras_2mm/COM_GRADE/README.md).

@@ -1,0 +1,269 @@
+{
+  "tipo": "letras_em_grades_curvas_para_imprimir_e_instalar",
+  "pneu_sem_alteracao": true,
+  "cavidade_mm": 1.0,
+  "espessura_letras_mm": 2.0,
+  "folga_lateral_por_face_mm": 0.15,
+  "saliancia_montada_mm": 1.05,
+  "ponta_largura_mm": 0.8,
+  "ponta_altura_mm": 0.6,
+  "grade_raio_interno_mm": 36.2,
+  "grade_raio_externo_mm": 38.2,
+  "grade_altura_mm": 1.4,
+  "arquivo_duas_grades_solidos": 2,
+  "dimensoes_duas_grades_impressao_mm": [
+    53.9643511007901,
+    34.153003782429685,
+    4.832668088983873
+  ],
+  "letras_posicoes_originais_preservadas": true,
+  "sem_interferencia_pneu": true,
+  "pneu_zmin_montagem_mm": -37.29999923706055,
+  "teste_fisico": false,
+  "grades": [
+    {
+      "palavra": "GOODYEAR",
+      "letras_e_simbolo": 9,
+      "solidos_impressao": 1,
+      "matriz_impressao": [
+        [
+          0.9998628643895136,
+          0.016249192280983316,
+          0.003196273613678901,
+          28.68679112615733
+        ],
+        [
+          -0.016299060194106135,
+          0.9997351171120301,
+          0.016249192280983312,
+          -18.688179702003705
+        ],
+        [
+          -0.0029313907257095817,
+          -0.016299060194106135,
+          0.9998628643895136,
+          2.323028338749469
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensoes_impressao_mm": [
+        53.9643511007901,
+        17.550891817124,
+        4.832668088983873
+      ],
+      "sem_interferencia_pneu": true
+    },
+    {
+      "palavra": "EAGLE",
+      "letras_e_simbolo": 5,
+      "solidos_impressao": 1,
+      "matriz_impressao": [
+        [
+          -0.9945562449346388,
+          0.10337567849284954,
+          -0.013089872331453744,
+          18.09975062874638
+        ],
+        [
+          -0.10417658481456851,
+          -0.9891717284033729,
+          0.10337567849284968,
+          -24.68527157916733
+        ],
+        [
+          -0.0022616007348266313,
+          0.10417658481456864,
+          0.9945562449346388,
+          4.808266431798173
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensoes_impressao_mm": [
+        28.68938547038812,
+        11.602111965305685,
+        4.265589894185053
+      ],
+      "sem_interferencia_pneu": true
+    }
+  ],
+  "pontas": [
+    {
+      "letra": "GOODYEAR_01_G",
+      "angulo_ligacao_graus": 129.25641567335546,
+      "ponto_corte_mm": [
+        -21.77237892150879,
+        26.641971588134766,
+        0.2228770732879638
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.1646856900984578
+    },
+    {
+      "letra": "GOODYEAR_02_O",
+      "angulo_ligacao_graus": 119.27646771390134,
+      "ponto_corte_mm": [
+        -16.823686599731445,
+        30.008329391479492,
+        0.2868144989013671
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.1641689017953141
+    },
+    {
+      "letra": "GOODYEAR_03_O",
+      "angulo_ligacao_graus": 108.64747975003814,
+      "ponto_corte_mm": [
+        -11.000033378601074,
+        32.5965576171875,
+        0.2867966175079345
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.16416854003254377
+    },
+    {
+      "letra": "GOODYEAR_04_D",
+      "angulo_ligacao_graus": 101.26227440017783,
+      "ponto_corte_mm": [
+        -6.725448131561279,
+        33.77329635620117,
+        0.28095577955245965
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.09072518875748642
+    },
+    {
+      "letra": "GOODYEAR_05_FOOT",
+      "angulo_ligacao_graus": 86.50932841941261,
+      "ponto_corte_mm": [
+        2.096508502960205,
+        34.369441986083984,
+        0.21279453039169305
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.09383242061630101
+    },
+    {
+      "letra": "GOODYEAR_06_Y",
+      "angulo_ligacao_graus": 75.46184847339266,
+      "ponto_corte_mm": [
+        8.657231330871582,
+        33.3833122253418,
+        0.19069092273712152
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.05369080169892158
+    },
+    {
+      "letra": "GOODYEAR_07_E",
+      "angulo_ligacao_graus": 65.97871672939299,
+      "ponto_corte_mm": [
+        14.030391693115234,
+        31.481298446655273,
+        0.2753147363662719
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.07616199508175747
+    },
+    {
+      "letra": "GOODYEAR_08_A",
+      "angulo_ligacao_graus": 56.73240503498965,
+      "ponto_corte_mm": [
+        18.891544342041016,
+        28.79510498046875,
+        0.28037499189376824
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.09003223581925515
+    },
+    {
+      "letra": "GOODYEAR_09_R",
+      "angulo_ligacao_graus": 51.3830525649365,
+      "ponto_corte_mm": [
+        21.483592987060547,
+        26.89571189880371,
+        0.21671073436737054
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.09081465046130578
+    },
+    {
+      "letra": "EAGLE_01_E",
+      "angulo_ligacao_graus": 282.9332494152819,
+      "ponto_corte_mm": [
+        7.643575668334961,
+        -33.28483200073242,
+        0.3314748883247375
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.07623983955194252
+    },
+    {
+      "letra": "EAGLE_02_A",
+      "angulo_ligacao_graus": 275.2524222148867,
+      "ponto_corte_mm": [
+        3.1244025230407715,
+        -33.98685836791992,
+        0.3346816182136535
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.09008541489752894
+    },
+    {
+      "letra": "EAGLE_03_G",
+      "angulo_ligacao_graus": 267.90302367754333,
+      "ponto_corte_mm": [
+        -1.2479455471038818,
+        -34.08244705200195,
+        0.3386239290237426
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.1642490896766662
+    },
+    {
+      "letra": "EAGLE_04_L",
+      "angulo_ligacao_graus": 262.5122401579483,
+      "ponto_corte_mm": [
+        -4.444798469543457,
+        -33.817420959472656,
+        0.31964354515075677
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.09094940598760064
+    },
+    {
+      "letra": "EAGLE_05_E",
+      "angulo_ligacao_graus": 250.79125187830482,
+      "ponto_corte_mm": [
+        -11.236114501953125,
+        -32.24987030029297,
+        0.30867128372192376
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.07623996323069189
+    }
+  ]
+}

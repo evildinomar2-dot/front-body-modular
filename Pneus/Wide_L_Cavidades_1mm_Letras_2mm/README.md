@@ -1,3 +1,5 @@
+**Revisão com grades curvas para imprimir e instalar as palavras: [abrir a versão com grade](COM_GRADE/README.md).**
+
 # Pneu com cavidades de 1 mm e letras separadas de 2 mm para colar
 
 [Baixar o kit completo de impressão](Kit_Pneu_BaixoRelevo_1mm_Letras_2mm.zip)
