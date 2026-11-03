@@ -1,0 +1,233 @@
+{
+  "tipo": "letras_em_grades_curvas_para_imprimir_e_instalar",
+  "pneu_sem_alteracao": true,
+  "cavidade_mm": 1.0,
+  "espessura_letras_mm": 2.0,
+  "folga_lateral_por_face_mm": 0.15,
+  "saliancia_montada_mm": 1.05,
+  "ponta_largura_mm": 0.8,
+  "ponta_altura_mm": 0.6,
+  "grade_raio_interno_mm": 36.2,
+  "grade_raio_externo_mm": 38.2,
+  "grade_altura_mm": 1.4,
+  "arquivo_duas_grades_solidos": 2,
+  "dimensoes_duas_grades_impressao_mm": [
+    37.51012427603008,
+    29.532264646042787,
+    4.675209095706276
+  ],
+  "letras_posicoes_originais_preservadas": true,
+  "sem_interferencia_pneu": true,
+  "pneu_zmin_montagem_mm": -37.29999923706055,
+  "teste_fisico": false,
+  "grades": [
+    {
+      "palavra": "COOPER",
+      "letras_e_simbolo": 6,
+      "solidos_impressao": 1,
+      "matriz_impressao": [
+        [
+          0.9988748462215077,
+          0.04691760952031104,
+          0.00691227190288359,
+          19.377255277050633
+        ],
+        [
+          -0.04719101713650258,
+          0.9977834162875839,
+          0.04691760952031104,
+          -23.066443144749307
+        ],
+        [
+          -0.004695688190467839,
+          -0.04719101713650258,
+          0.9988748462215077,
+          3.2269555831659402
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensoes_impressao_mm": [
+        37.51012427603008,
+        13.225143179030873,
+        4.675209095706276
+      ],
+      "sem_interferencia_pneu": true
+    },
+    {
+      "palavra": "COBRA",
+      "letras_e_simbolo": 5,
+      "solidos_impressao": 1,
+      "matriz_impressao": [
+        [
+          -0.9962394743152696,
+          0.0861257511476932,
+          -0.009448005359913116,
+          19.94263850911364
+        ],
+        [
+          -0.08662026174563545,
+          -0.9925116045892679,
+          0.08612575114769333,
+          -24.9897217186637
+        ],
+        [
+          -0.0019596099491809953,
+          0.08662026174563557,
+          0.9962394743152696,
+          4.287476663274869
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dimensoes_impressao_mm": [
+        31.77931776960378,
+        11.307121467011914,
+        4.3445979817951486
+      ],
+      "sem_interferencia_pneu": true
+    }
+  ],
+  "pontas": [
+    {
+      "letra": "COOPER_01_C",
+      "angulo_ligacao_graus": 113.76544137199541,
+      "ponto_corte_mm": [
+        -13.86618423461914,
+        31.490276336669922,
+        0.22227452993392938
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.1636918605640871
+    },
+    {
+      "letra": "COOPER_02_O",
+      "angulo_ligacao_graus": 104.35226471629446,
+      "ponto_corte_mm": [
+        -8.527804374694824,
+        33.328857421875,
+        0.2865123033523559
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.16416940321435544
+    },
+    {
+      "letra": "COOPER_03_O",
+      "angulo_ligacao_graus": 93.72327746752853,
+      "ponto_corte_mm": [
+        -2.2340240478515625,
+        34.32994842529297,
+        0.2873047471046447
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.16416883656137546
+    },
+    {
+      "letra": "COOPER_04_P",
+      "angulo_ligacao_graus": 86.36625540318825,
+      "ponto_corte_mm": [
+        2.18192458152771,
+        34.357784271240234,
+        0.21530233621597283
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.09078438469975904
+    },
+    {
+      "letra": "COOPER_05_E",
+      "angulo_ligacao_graus": 70.81177104529637,
+      "ponto_corte_mm": [
+        11.328121185302734,
+        32.55146408081055,
+        0.19898997545242303
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.07616204157661806
+    },
+    {
+      "letra": "COOPER_06_R",
+      "angulo_ligacao_graus": 66.91757409702531,
+      "ponto_corte_mm": [
+        13.495600700378418,
+        31.66690444946289,
+        0.21673272848129266
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.09081461955840392
+    },
+    {
+      "letra": "COBRA_01_C",
+      "angulo_ligacao_graus": 287.02962786681695,
+      "ponto_corte_mm": [
+        9.988469123840332,
+        -32.61048889160156,
+        0.33849327564239495
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.1631224249676797
+    },
+    {
+      "letra": "COBRA_02_O",
+      "angulo_ligacao_graus": 278.57475343877167,
+      "ponto_corte_mm": [
+        5.084593296051025,
+        -33.720794677734375,
+        0.3215922594070434
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.16361691789023378
+    },
+    {
+      "letra": "COBRA_03_B",
+      "angulo_ligacao_graus": 271.94310948140003,
+      "ponto_corte_mm": [
+        1.1568745374679565,
+        -34.09926986694336,
+        0.3366232991218566
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.09084307421307067
+    },
+    {
+      "letra": "COBRA_04_R",
+      "angulo_ligacao_graus": 263.1609523587267,
+      "ponto_corte_mm": [
+        -4.062740802764893,
+        -33.874794006347656,
+        0.3172311067581176
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.09085457717387187
+    },
+    {
+      "letra": "COBRA_05_A",
+      "angulo_ligacao_graus": 249.79957851389855,
+      "ponto_corte_mm": [
+        -11.785321235656738,
+        -32.03083801269531,
+        0.3339967012405395
+      ],
+      "largura_ponta_mm": 0.8,
+      "altura_ponta_mm": 0.6,
+      "sobreposicao_ponta_letra_mm3": 0.09008539686788873
+    }
+  ]
+}

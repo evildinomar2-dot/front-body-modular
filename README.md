@@ -68,3 +68,6 @@ Leia [as instruções completas](INSTRUCOES.md) antes de modificar ou imprimir. 
 
 
 [Revisão do kit de pneu e letras com grades cortáveis para montagem](Pneus/Wide_L_Cavidades_1mm_Letras_2mm/COM_GRADE/README.md).
+
+
+[Pneu COOPER / COBRA com rebaixos de 1 mm e letras de 2 mm em grades cortáveis](Pneus/Cooper_Cobra_Wide_L_Com_Grade/README.md).
