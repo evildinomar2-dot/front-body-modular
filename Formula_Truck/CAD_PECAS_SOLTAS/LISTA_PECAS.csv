@@ -1,0 +1,56 @@
+arquivo,tipo,quantidade,X_impressao_mm,Y_impressao_mm,Z_impressao_mm
+01_cabine_frente_1_1_1,carroceria,1,188.0,150.0,53.81
+01_cabine_frente_1_1_2,carroceria,1,188.0,150.0,53.81
+01_cabine_frente_2_1_1,carroceria,1,185.578,168.0,51.705
+01_cabine_frente_2_1_2,carroceria,1,185.578,168.0,51.705
+01_cabine_lateral_Ynegativo_1_1,carroceria,1,40.0,74.378,4.232
+01_cabine_lateral_Ynegativo_1_2,carroceria,1,40.0,183.0,10.486
+01_cabine_lateral_Ynegativo_2_1,carroceria,1,200.0,99.293,4.581
+01_cabine_lateral_Ynegativo_2_2,carroceria,1,200.0,183.0,10.486
+01_cabine_lateral_Ypositivo_1_1,carroceria,1,40.0,74.378,4.232
+01_cabine_lateral_Ypositivo_1_2,carroceria,1,40.0,183.0,10.486
+01_cabine_lateral_Ypositivo_2_1,carroceria,1,200.0,99.293,4.581
+01_cabine_lateral_Ypositivo_2_2,carroceria,1,200.0,183.0,10.486
+01_cabine_teto_1_1_1,carroceria,1,138.564,178.456,32.0
+01_cabine_teto_1_1_2,carroceria,1,138.564,178.456,32.0
+01_cabine_teto_1_2_1,carroceria,1,135.705,178.456,32.0
+01_cabine_teto_1_2_2,carroceria,1,135.705,178.456,32.0
+01_cabine_traseiro_1_1_1,carroceria,1,188.0,160.0,35.105
+01_cabine_traseiro_1_1_2,carroceria,1,188.0,160.0,35.105
+01_cabine_traseiro_2_1_1,carroceria,1,185.345,158.0,32.643
+01_cabine_traseiro_2_1_2,carroceria,1,185.345,158.0,32.643
+06_parachoque_secao_1,carroceria,1,109.3,133.137,76.0
+06_parachoque_secao_2_1,carroceria,1,134.0,31.163,21.249
+06_parachoque_secao_2_2,carroceria,1,134.0,11.163,3.947
+06_parachoque_secao_3,carroceria,1,109.3,133.137,76.0
+07_lamina_inferior_secao_1,carroceria,1,110.301,130.0,3.0
+07_lamina_inferior_secao_2,carroceria,1,110.699,134.0,3.0
+07_lamina_inferior_secao_3,carroceria,1,111.0,130.0,3.0
+08_paralama_dianteiro_-1_parte_1,carroceria,1,127.998,193.0,35.0
+08_paralama_dianteiro_-1_parte_2,carroceria,1,127.998,193.0,35.0
+08_paralama_dianteiro_1_parte_1,carroceria,1,127.998,193.0,35.0
+08_paralama_dianteiro_1_parte_2,carroceria,1,127.998,193.0,35.0
+09_paralama_traseiro_-1_parte_1,carroceria,1,127.998,193.0,35.0
+09_paralama_traseiro_-1_parte_2,carroceria,1,127.998,193.0,35.0
+09_paralama_traseiro_1_parte_1,carroceria,1,127.998,193.0,35.0
+09_paralama_traseiro_1_parte_2,carroceria,1,127.998,193.0,35.0
+10_carenagem_-1_secao_1,carroceria,1,138.816,126.0,4.0
+10_carenagem_-1_secao_2,carroceria,1,148.816,126.0,4.0
+10_carenagem_1_secao_1,carroceria,1,138.816,126.0,4.0
+10_carenagem_1_secao_2,carroceria,1,148.816,126.0,4.0
+11_emblema_frontal,carroceria,1,65.979,66.0,12.0
+11_grade_ventilada_1,carroceria,1,136.0,94.0,3.0
+11_grade_ventilada_2,carroceria,1,136.0,94.0,3.0
+11_tela_duto_-139,carroceria,1,49.0,38.0,2.0
+11_tela_duto_0,carroceria,1,149.0,38.0,2.0
+11_tela_duto_139,carroceria,1,49.0,38.0,2.0
+12_espelho_-1,carroceria,1,43.0,47.0,24.0
+12_espelho_1,carroceria,1,43.0,47.0,24.0
+vidro_opcional_faixa_inferior_vidro_referencia_parte_1,vidro opcional,1,149.578,23.0,5.085
+vidro_opcional_faixa_inferior_vidro_referencia_parte_2,vidro opcional,1,149.578,23.0,5.085
+vidro_opcional_faixa_superior_vidro_referencia_parte_1,vidro opcional,1,145.034,25.0,9.666
+vidro_opcional_faixa_superior_vidro_referencia_parte_2,vidro opcional,1,145.034,25.0,9.666
+vidro_opcional_vidro_frontal_referencia_parte_1,vidro opcional,1,149.048,97.0,21.018
+vidro_opcional_vidro_frontal_referencia_parte_2,vidro opcional,1,149.048,97.0,21.018
+vidro_opcional_vidro_lateral_negativo_referencia,vidro opcional,1,210.833,158.79,9.397
+vidro_opcional_vidro_lateral_positivo_referencia,vidro opcional,1,210.835,158.789,9.397

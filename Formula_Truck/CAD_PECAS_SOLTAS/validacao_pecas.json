@@ -1,0 +1,2940 @@
+{
+  "tipo": "CAD_BASE_PECAS_SOLTAS",
+  "adaptacao_chassi_por_usuario": true,
+  "unioes_e_travas_nao_detalhadas": true,
+  "carroceria": 47,
+  "vidros_opcionais": 8,
+  "total": 55,
+  "entre_eixos_mm": 500,
+  "diametro_roda_referencia_mm": 200,
+  "largura_externa_pneus_mm": 400,
+  "impressora_mm": [
+    220,
+    220,
+    250
+  ],
+  "envelope_mm": [
+    218,
+    218,
+    248
+  ],
+  "desvio_tesselacao_stl_mm": 0.03,
+  "montagens_reimportadas_validas": true,
+  "pecas": [
+    {
+      "nome": "01_cabine_frente_1_1_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 88045.2739637006,
+      "dimensoes_montagem_mm": [
+        53.80985803205331,
+        188.00000020000002,
+        150.0000002000018
+      ],
+      "dimensoes_orientadas_mm": [
+        188.0,
+        150.0,
+        53.809764976059
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        190.0,
+        -98.0,
+        -16.190235023941
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "01_cabine_frente_1_1_2",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 88045.07421835394,
+      "dimensoes_montagem_mm": [
+        53.809858032055246,
+        188.0000002,
+        150.0000002000005
+      ],
+      "dimensoes_orientadas_mm": [
+        188.0,
+        150.0,
+        53.809764976059
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        2.000000000000007,
+        -98.0,
+        -16.190235023941
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "01_cabine_frente_2_1_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 39928.96741914337,
+      "dimensoes_montagem_mm": [
+        51.70518657266299,
+        185.5782883524807,
+        168.00000020000405
+      ],
+      "dimensoes_orientadas_mm": [
+        185.57828815240003,
+        168.0,
+        51.70518637266299
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        187.5782881524,
+        -248.0,
+        -18.294813627338
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "01_cabine_frente_2_1_2",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 39928.96339675083,
+      "dimensoes_montagem_mm": [
+        51.70518657266307,
+        185.5782883525259,
+        168.00000020000041
+      ],
+      "dimensoes_orientadas_mm": [
+        185.5782881525166,
+        168.0,
+        51.70518637266299
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        2.0000000000065814,
+        -248.0,
+        -18.294813627338
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "01_cabine_lateral_Ynegativo_1_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 5829.292038869442,
+      "dimensoes_montagem_mm": [
+        40.00000020000023,
+        4.231804544496271,
+        74.37822193592069
+      ],
+      "dimensoes_orientadas_mm": [
+        40.0,
+        74.37822173592,
+        4.23180434279999
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        112.0,
+        -158.62177826408,
+        187.1418306348
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "01_cabine_lateral_Ynegativo_1_2",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 8968.372587916308,
+      "dimensoes_montagem_mm": [
+        40.000000200003996,
+        10.486111011503652,
+        183.00000020000036
+      ],
+      "dimensoes_orientadas_mm": [
+        40.00000000000399,
+        183.0,
+        10.48611078570002
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        112.0,
+        -233.0,
+        185.899731988
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "01_cabine_lateral_Ynegativo_2_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 14142.961738206972,
+      "dimensoes_montagem_mm": [
+        200.0000002000043,
+        4.581202846099984,
+        99.2928581121632
+      ],
+      "dimensoes_orientadas_mm": [
+        200.0,
+        99.29285791216,
+        4.581202646099996
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        312.0,
+        -133.70714208784,
+        187.4912289421
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "01_cabine_lateral_Ynegativo_2_2",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 26666.880464893038,
+      "dimensoes_montagem_mm": [
+        200.00000020000084,
+        10.486111012086468,
+        183.00000020000013
+      ],
+      "dimensoes_orientadas_mm": [
+        200.0,
+        183.0,
+        10.486110786300003
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        312.0,
+        -233.0,
+        185.8997319886
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "01_cabine_lateral_Ypositivo_1_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 5829.292025721277,
+      "dimensoes_montagem_mm": [
+        40.000000200000386,
+        4.231804544433572,
+        74.3782219368899
+      ],
+      "dimensoes_orientadas_mm": [
+        40.0,
+        74.37822173689,
+        4.231804342610019
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        112.0,
+        -158.62177826311,
+        -182.91002629212
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "01_cabine_lateral_Ypositivo_1_2",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 8968.372416352959,
+      "dimensoes_montagem_mm": [
+        40.000000200003,
+        10.48611101153179,
+        183.00000020000087
+      ],
+      "dimensoes_orientadas_mm": [
+        40.000000000003,
+        183.0,
+        10.486110785760019
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        112.0,
+        -233.0,
+        -175.41362120235
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "01_cabine_lateral_Ypositivo_2_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 14142.96065083622,
+      "dimensoes_montagem_mm": [
+        200.0000002000039,
+        4.581202845983739,
+        99.29285814074206
+      ],
+      "dimensoes_orientadas_mm": [
+        200.0,
+        99.29285794073999,
+        4.5812026459799995
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        312.0,
+        -133.70714205926,
+        -182.91002629614
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "01_cabine_lateral_Ypositivo_2_2",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 26666.879436928022,
+      "dimensoes_montagem_mm": [
+        200.0000002000005,
+        10.486111012079988,
+        183.00000020000002
+      ],
+      "dimensoes_orientadas_mm": [
+        200.0,
+        183.0,
+        10.486110786310007
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        312.0,
+        -233.0,
+        -175.41362120235
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "01_cabine_teto_1_1_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 97515.05804062207,
+      "dimensoes_montagem_mm": [
+        138.56409560661402,
+        178.45582897626375,
+        32.00000020000283
+      ],
+      "dimensoes_orientadas_mm": [
+        138.564095406614,
+        178.45582877620004,
+        32.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        -49.435904593386,
+        180.4558287762,
+        -418.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "01_cabine_teto_1_1_2",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 97515.05805448019,
+      "dimensoes_montagem_mm": [
+        138.564095606614,
+        178.45582897626588,
+        32.00000020000033
+      ],
+      "dimensoes_orientadas_mm": [
+        138.564095406614,
+        178.45582877626,
+        32.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        -49.435904593386,
+        2.0,
+        -418.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "01_cabine_teto_1_2_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 97065.63234148792,
+      "dimensoes_montagem_mm": [
+        135.70489203698563,
+        178.45582897626363,
+        32.00000020000283
+      ],
+      "dimensoes_orientadas_mm": [
+        135.70489183697998,
+        178.4558287762,
+        32.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        -188.0,
+        180.4558287762,
+        -418.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "01_cabine_teto_1_2_2",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 97065.63188878284,
+      "dimensoes_montagem_mm": [
+        135.7048920369863,
+        178.45582897626582,
+        32.00000020000056
+      ],
+      "dimensoes_orientadas_mm": [
+        135.70489183697998,
+        178.45582877626003,
+        32.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        -188.0,
+        2.000000000000014,
+        -418.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "01_cabine_traseiro_1_1_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 60526.62800824455,
+      "dimensoes_montagem_mm": [
+        35.14777671104582,
+        188.00000020000002,
+        160.00000020000127
+      ],
+      "dimensoes_orientadas_mm": [
+        188.0,
+        160.0,
+        35.10495317743971
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        190.0,
+        -98.0,
+        -310.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "01_cabine_traseiro_1_1_2",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 60526.62834007984,
+      "dimensoes_montagem_mm": [
+        35.14777671104855,
+        188.00000020000002,
+        160.00000020000047
+      ],
+      "dimensoes_orientadas_mm": [
+        188.0,
+        160.0,
+        35.10495317743971
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        2.0000000000000107,
+        -98.0,
+        -310.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "01_cabine_traseiro_2_1_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 87235.7261898249,
+      "dimensoes_montagem_mm": [
+        32.64311575487045,
+        185.34505053141467,
+        158.0000002000054
+      ],
+      "dimensoes_orientadas_mm": [
+        185.3450503314,
+        158.0,
+        32.64311555487001
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        187.3450503314,
+        -258.0,
+        -309.99999999999
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "01_cabine_traseiro_2_1_2",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 87235.72589415751,
+      "dimensoes_montagem_mm": [
+        32.64311575487022,
+        185.34505053144645,
+        158.00000020000152
+      ],
+      "dimensoes_orientadas_mm": [
+        185.34505033144646,
+        158.0,
+        32.64311555487001
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        2.0000000000064606,
+        -258.0,
+        -309.99999999999
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "06_parachoque_secao_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 44724.441055720155,
+      "dimensoes_montagem_mm": [
+        109.30044218553506,
+        133.1409946799037,
+        76.00000027651019
+      ],
+      "dimensoes_orientadas_mm": [
+        109.3004400257543,
+        133.13696836563042,
+        76.00000000000028
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        28.7699476853503,
+        202.13696836563042,
+        -19.99999999999982
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "06_parachoque_secao_2_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 10084.047166011987,
+      "dimensoes_montagem_mm": [
+        21.248899894459388,
+        134.00000020000027,
+        31.162603046055978
+      ],
+      "dimensoes_orientadas_mm": [
+        134.0,
+        31.162602836356,
+        21.248899694459002
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        69.0,
+        -62.837397163644,
+        20.15684653945
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "06_parachoque_secao_2_2",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 4943.582696673989,
+      "dimensoes_montagem_mm": [
+        3.9467145503565675,
+        134.00000020000013,
+        11.16260307621749
+      ],
+      "dimensoes_orientadas_mm": [
+        134.0,
+        11.162602876215999,
+        3.9467143127799993
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        69.0,
+        -18.0,
+        26.76772796105
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "06_parachoque_secao_3",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 44724.45897036214,
+      "dimensoes_montagem_mm": [
+        109.30044218553566,
+        133.14099467990368,
+        76.00000027650898
+      ],
+      "dimensoes_orientadas_mm": [
+        109.30043628820229,
+        133.13696836563042,
+        76.00000000000021
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        28.76994394779829,
+        -65.0,
+        -19.99999999999989
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "07_lamina_inferior_secao_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 41954.040178571566,
+      "dimensoes_montagem_mm": [
+        110.30059523809507,
+        130.0,
+        3.0
+      ],
+      "dimensoes_orientadas_mm": [
+        110.300595238095,
+        130.0,
+        3.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        33.0,
+        199.0,
+        -17.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "07_lamina_inferior_secao_2",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 44420.99999999993,
+      "dimensoes_montagem_mm": [
+        110.699404761905,
+        134.0,
+        3.0
+      ],
+      "dimensoes_orientadas_mm": [
+        110.699404761905,
+        134.0,
+        3.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        33.0,
+        69.0,
+        -17.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "07_lamina_inferior_secao_3",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 42207.959821429045,
+      "dimensoes_montagem_mm": [
+        111.0,
+        130.0,
+        3.0
+      ],
+      "dimensoes_orientadas_mm": [
+        111.0,
+        130.0,
+        3.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        33.0,
+        -65.0,
+        -17.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "08_paralama_dianteiro_-1_parte_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 41540.50167044981,
+      "dimensoes_montagem_mm": [
+        128.0,
+        35.0,
+        193.0
+      ],
+      "dimensoes_orientadas_mm": [
+        127.99810206134532,
+        193.0,
+        35.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        187.0,
+        -33.0,
+        200.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "08_paralama_dianteiro_-1_parte_2",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 41540.50167045322,
+      "dimensoes_montagem_mm": [
+        128.0,
+        35.0,
+        193.00000000000364
+      ],
+      "dimensoes_orientadas_mm": [
+        127.99810206134532,
+        193.0,
+        35.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        314.9981020613453,
+        -33.0,
+        200.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "08_paralama_dianteiro_1_parte_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 41540.5016704498,
+      "dimensoes_montagem_mm": [
+        128.0,
+        35.0,
+        193.0
+      ],
+      "dimensoes_orientadas_mm": [
+        127.99810206134532,
+        193.0,
+        35.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        187.0,
+        -33.0,
+        -165.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "08_paralama_dianteiro_1_parte_2",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 41540.5016704532,
+      "dimensoes_montagem_mm": [
+        128.0,
+        35.0,
+        193.00000000000364
+      ],
+      "dimensoes_orientadas_mm": [
+        127.99810206134532,
+        193.0,
+        35.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        314.9981020613453,
+        -33.0,
+        -165.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "09_paralama_traseiro_-1_parte_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 41540.50167045082,
+      "dimensoes_montagem_mm": [
+        128.0,
+        35.0,
+        193.0
+      ],
+      "dimensoes_orientadas_mm": [
+        127.99810206134532,
+        193.0,
+        35.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        687.0,
+        -33.0,
+        200.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "09_paralama_traseiro_-1_parte_2",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 41540.50167045292,
+      "dimensoes_montagem_mm": [
+        128.0,
+        35.0,
+        193.00000000000358
+      ],
+      "dimensoes_orientadas_mm": [
+        127.99810206134532,
+        193.0,
+        35.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        814.9981020613453,
+        -33.0,
+        200.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "09_paralama_traseiro_1_parte_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 41540.501670450845,
+      "dimensoes_montagem_mm": [
+        128.0,
+        35.0,
+        193.0
+      ],
+      "dimensoes_orientadas_mm": [
+        127.99810206134532,
+        193.0,
+        35.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        687.0,
+        -33.0,
+        -165.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "09_paralama_traseiro_1_parte_2",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 41540.501670453,
+      "dimensoes_montagem_mm": [
+        128.0,
+        35.0,
+        193.00000000000358
+      ],
+      "dimensoes_orientadas_mm": [
+        127.99810206134532,
+        193.0,
+        35.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        814.9981020613453,
+        -33.0,
+        -165.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "10_carenagem_-1_secao_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 60943.7963781622,
+      "dimensoes_montagem_mm": [
+        138.81619709203,
+        4.0,
+        126.00000000000428
+      ],
+      "dimensoes_orientadas_mm": [
+        138.81619709203,
+        126.0,
+        4.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        432.0,
+        -23.0,
+        194.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "10_carenagem_-1_secao_2",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 65983.79637816007,
+      "dimensoes_montagem_mm": [
+        148.81619709202232,
+        4.0,
+        126.0
+      ],
+      "dimensoes_orientadas_mm": [
+        148.81619709202005,
+        126.0,
+        4.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        580.81619709202,
+        -23.0,
+        194.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "10_carenagem_1_secao_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 60943.7963781622,
+      "dimensoes_montagem_mm": [
+        138.81619709203,
+        4.0,
+        126.00000000000428
+      ],
+      "dimensoes_orientadas_mm": [
+        138.81619709203,
+        126.0,
+        4.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        432.0,
+        -23.0,
+        -190.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "10_carenagem_1_secao_2",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 65983.79637816007,
+      "dimensoes_montagem_mm": [
+        148.81619709202232,
+        4.0,
+        126.0
+      ],
+      "dimensoes_orientadas_mm": [
+        148.81619709202005,
+        126.0,
+        4.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        580.81619709202,
+        -23.0,
+        -190.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "11_emblema_frontal",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 3260.912104388601,
+      "dimensoes_montagem_mm": [
+        12.0,
+        66.0,
+        66.0
+      ],
+      "dimensoes_orientadas_mm": [
+        65.97948601205388,
+        66.0,
+        12.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        34.989743006026934,
+        -149.0,
+        -12.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "11_grade_ventilada_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 10047.0,
+      "dimensoes_montagem_mm": [
+        3.0,
+        136.0,
+        94.0
+      ],
+      "dimensoes_orientadas_mm": [
+        136.0,
+        94.0,
+        3.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        138.0,
+        -135.0,
+        -28.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "11_grade_ventilada_2",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 10047.0,
+      "dimensoes_montagem_mm": [
+        3.0,
+        136.0,
+        94.0
+      ],
+      "dimensoes_orientadas_mm": [
+        136.0,
+        94.0,
+        3.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        2.0,
+        -135.0,
+        -28.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "11_tela_duto_-139",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 1291.9999999999945,
+      "dimensoes_montagem_mm": [
+        2.0,
+        49.0,
+        38.0
+      ],
+      "dimensoes_orientadas_mm": [
+        49.0,
+        38.0,
+        2.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        165.5,
+        -27.0,
+        18.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "11_tela_duto_0",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 3656.8000000000047,
+      "dimensoes_montagem_mm": [
+        2.0,
+        149.0,
+        38.0
+      ],
+      "dimensoes_orientadas_mm": [
+        149.0,
+        38.0,
+        2.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        76.5,
+        -27.0,
+        18.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "11_tela_duto_139",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 1291.9999999999948,
+      "dimensoes_montagem_mm": [
+        2.0,
+        49.0,
+        38.0
+      ],
+      "dimensoes_orientadas_mm": [
+        49.0,
+        38.0,
+        2.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        -112.5,
+        -27.0,
+        18.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "12_espelho_-1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 14412.504350351639,
+      "dimensoes_montagem_mm": [
+        24.0,
+        43.0,
+        47.0
+      ],
+      "dimensoes_orientadas_mm": [
+        43.0,
+        47.0,
+        24.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        220.0,
+        -300.0,
+        -30.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "12_espelho_1",
+      "vidro_opcional": false,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 14412.504350351526,
+      "dimensoes_montagem_mm": [
+        24.0,
+        43.0,
+        47.0
+      ],
+      "dimensoes_orientadas_mm": [
+        43.0,
+        47.0,
+        24.0
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        -173.0,
+        -300.0,
+        -30.0
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "vidro_opcional_faixa_inferior_vidro_referencia_parte_1",
+      "vidro_opcional": true,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 9279.738792580587,
+      "dimensoes_montagem_mm": [
+        5.08489771427536,
+        149.57764951374983,
+        23.00000020000101
+      ],
+      "dimensoes_orientadas_mm": [
+        149.57756066860765,
+        23.0,
+        5.084897514274999
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        151.57756066860762,
+        -255.0,
+        -18.88817816881
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "vidro_opcional_faixa_inferior_vidro_referencia_parte_2",
+      "vidro_opcional": true,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 9279.741293794661,
+      "dimensoes_montagem_mm": [
+        5.08489771427536,
+        149.57764947597832,
+        23.000000200000272
+      ],
+      "dimensoes_orientadas_mm": [
+        149.57753417957315,
+        23.0,
+        5.084897514274999
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        2.0000000000000213,
+        -255.0,
+        -18.88817816881
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "vidro_opcional_faixa_superior_vidro_referencia_parte_1",
+      "vidro_opcional": true,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 9597.234031017324,
+      "dimensoes_montagem_mm": [
+        9.666302752191932,
+        145.03448295860005,
+        25.000000200002034
+      ],
+      "dimensoes_orientadas_mm": [
+        145.03448275860003,
+        25.0,
+        9.666302446924
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        147.0344827586,
+        -375.0,
+        -39.83089858754
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "vidro_opcional_faixa_superior_vidro_referencia_parte_2",
+      "vidro_opcional": true,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 9597.232117616766,
+      "dimensoes_montagem_mm": [
+        9.666302646924663,
+        145.03448295861998,
+        25.000000200000784
+      ],
+      "dimensoes_orientadas_mm": [
+        145.03448275862,
+        25.0,
+        9.666302446924
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        2.0000000000000036,
+        -375.0,
+        -39.83089858754
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "vidro_opcional_vidro_frontal_referencia_parte_1",
+      "vidro_opcional": true,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 34961.59089885404,
+      "dimensoes_montagem_mm": [
+        21.01783300257565,
+        149.0482760620256,
+        97.00000020000016
+      ],
+      "dimensoes_orientadas_mm": [
+        149.04827586200003,
+        97.0,
+        21.01783271348
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        151.048275862,
+        -278.0,
+        -21.340559659085
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "vidro_opcional_vidro_frontal_referencia_parte_2",
+      "vidro_opcional": true,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 34961.59089963618,
+      "dimensoes_montagem_mm": [
+        21.017833002576296,
+        149.04827606206646,
+        97.00000020000016
+      ],
+      "dimensoes_orientadas_mm": [
+        149.04827586206002,
+        97.0,
+        21.01783271348
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        2.0000000000000213,
+        -278.0,
+        -21.340559659085
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "vidro_opcional_vidro_lateral_negativo_referencia",
+      "vidro_opcional": true,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 91760.8534202237,
+      "dimensoes_montagem_mm": [
+        210.83506909437423,
+        9.396752971544458,
+        158.78965626754282
+      ],
+      "dimensoes_orientadas_mm": [
+        210.8334034425,
+        158.78951194417056,
+        9.39674270402196
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        293.8334034425,
+        -246.0,
+        185.6230445417
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    },
+    {
+      "nome": "vidro_opcional_vidro_lateral_positivo_referencia",
+      "vidro_opcional": true,
+      "solidos": 1,
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 91760.85162281271,
+      "dimensoes_montagem_mm": [
+        210.83506909165177,
+        9.396752971385808,
+        158.78965626524533
+      ],
+      "dimensoes_orientadas_mm": [
+        210.83477321397504,
+        158.78853048335407,
+        9.396674319396766
+      ],
+      "matriz_rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translacao_impressao": [
+        293.83477321397504,
+        -246.0,
+        -176.22637022236324
+      ],
+      "cabe_envelope_218_218_248": true,
+      "unioes_mecanicas_detalhadas": false,
+      "adaptacao_chassi": false
+    }
+  ]
+}
