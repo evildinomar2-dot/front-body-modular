@@ -53,3 +53,6 @@ A montagem STEP foi exportada e reimportada com oito sólidos válidos. Os arqui
 Leia [as instruções completas](INSTRUCOES.md) antes de modificar ou imprimir. O pacote inclui um script opcional de conversão para F3D que deve ser executado dentro do Fusion; ele não foi executado na nuvem.
 
 ![Encaixes internos dos STL](ENCAIXES_INTERNOS.png)
+
+
+[Roda de sete raios nivelada com a borda — versão aprovada](Rodas/Sete_Raios_Nivelada/README.md).
