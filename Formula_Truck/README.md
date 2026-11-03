@@ -1,3 +1,5 @@
+**Revisão atual:** [V2 com encaixes internos para colar](COM_ENCAIXES_V2/README.md). Os painéis anteriores não possuem essas uniões.
+
 # Formula Truck — carroceria CAD 400 mm
 
 [BAIXAR CAD COM TODAS AS PEÇAS SOLTAS](https://github.com/evildinomar2-dot/front-body-modular/raw/refs/heads/main/Formula_Truck/CAD_PECAS_SOLTAS/Formula_Truck_CAD_Pecas_Soltas.zip)

@@ -1,0 +1,8 @@
+{
+  "tolerancia_volume_mm3": 0.15,
+  "desvio_malha_absoluto_mm": 0.025,
+  "colisoes": [],
+  "invasoes_pneus": [],
+  "total_pecas": 152,
+  "malhas_reparadas_apenas_para_diagnostico": []
+}

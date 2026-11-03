@@ -1,0 +1,6107 @@
+{
+  "status": "CAD_COM_CHAVETAS_PARA_COLAR",
+  "carroceria": 47,
+  "vidros_opcionais": 8,
+  "chavetas": 97,
+  "total": 152,
+  "folga_por_face_mm": 0.2,
+  "impressora_mm": [
+    220,
+    220,
+    250
+  ],
+  "envelope_mm": [
+    218,
+    218,
+    248
+  ],
+  "folga_fundo_alojamento_mm": 0.5,
+  "colisoes_volume_acima_015_mm3": 0,
+  "invasoes_pneus_referencia": 0,
+  "alojamentos_abertos_verificados": 194,
+  "malhas_reparadas": 0,
+  "teste_fisico_realizado": false,
+  "fixacoes_chassi": false,
+  "pecas": [
+    {
+      "nome": "01_cabine_frente_1_1_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 91647.47983548687,
+      "volume_stl_mm3": 91629.54636346565,
+      "dimensoes_impressao_mm": [
+        188.0,
+        150.0,
+        53.80985641479492
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "01_cabine_frente_1_1_2",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 91647.26430888048,
+      "volume_stl_mm3": 91630.77482086905,
+      "dimensoes_impressao_mm": [
+        188.0,
+        150.0,
+        53.80985641479492
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "01_cabine_frente_2_1_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 41896.76971912106,
+      "volume_stl_mm3": 41893.94708696419,
+      "dimensoes_impressao_mm": [
+        185.57829284667972,
+        168.0,
+        51.70518684387207
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "01_cabine_frente_2_1_2",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 41896.75808059972,
+      "volume_stl_mm3": 41894.11434804487,
+      "dimensoes_impressao_mm": [
+        185.57829284668628,
+        168.0,
+        51.70518684387207
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "01_cabine_lateral_Ynegativo_1_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 6829.351582857691,
+      "volume_stl_mm3": 6829.876161880123,
+      "dimensoes_impressao_mm": [
+        40.0,
+        74.37821960449219,
+        9.844070434570312
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "01_cabine_lateral_Ynegativo_1_2",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 9964.208613036528,
+      "volume_stl_mm3": 9964.381374525115,
+      "dimensoes_impressao_mm": [
+        40.0,
+        183.0,
+        15.615829467773438
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "01_cabine_lateral_Ynegativo_2_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 15143.026704644877,
+      "volume_stl_mm3": 15146.224823860635,
+      "dimensoes_impressao_mm": [
+        200.0,
+        99.29286193847656,
+        10.193466186523438
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "01_cabine_lateral_Ynegativo_2_2",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 32544.344161125802,
+      "volume_stl_mm3": 32543.813601169237,
+      "dimensoes_impressao_mm": [
+        200.0,
+        183.0,
+        26.399734497070312
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "01_cabine_lateral_Ypositivo_1_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 6829.351622606974,
+      "volume_stl_mm3": 6829.958746343676,
+      "dimensoes_impressao_mm": [
+        40.0,
+        74.37821960449219,
+        9.844070434570312
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "01_cabine_lateral_Ypositivo_1_2",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 9964.209037093571,
+      "volume_stl_mm3": 9964.371369973678,
+      "dimensoes_impressao_mm": [
+        40.0,
+        183.0,
+        15.615829467773438
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "01_cabine_lateral_Ypositivo_2_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 15143.022180711423,
+      "volume_stl_mm3": 15146.858526293741,
+      "dimensoes_impressao_mm": [
+        200.0,
+        99.29286193847656,
+        10.193466186523438
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "01_cabine_lateral_Ypositivo_2_2",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 32544.340470609026,
+      "volume_stl_mm3": 32542.752481824118,
+      "dimensoes_impressao_mm": [
+        200.0,
+        183.0,
+        26.399734497070312
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "01_cabine_teto_1_1_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 99149.718092517,
+      "volume_stl_mm3": 99142.82307371801,
+      "dimensoes_impressao_mm": [
+        138.56409454345703,
+        178.4558258056641,
+        32.0
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "01_cabine_teto_1_1_2",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 99149.71824496474,
+      "volume_stl_mm3": 99142.60575468396,
+      "dimensoes_impressao_mm": [
+        138.56409454345703,
+        178.45582580566406,
+        32.0
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "01_cabine_teto_1_2_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 98704.22383370427,
+      "volume_stl_mm3": 98694.86738139745,
+      "dimensoes_impressao_mm": [
+        135.70489501953125,
+        178.45582580566406,
+        32.0
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "01_cabine_teto_1_2_2",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 98704.22335717037,
+      "volume_stl_mm3": 98694.80649050853,
+      "dimensoes_impressao_mm": [
+        135.70489501953125,
+        178.45582580566406,
+        32.0
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "01_cabine_traseiro_1_1_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 61944.29169145861,
+      "volume_stl_mm3": 61920.46528662974,
+      "dimensoes_impressao_mm": [
+        188.0,
+        160.0,
+        35.144866943359375
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "01_cabine_traseiro_1_1_2",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 61944.29212276848,
+      "volume_stl_mm3": 61919.30733973285,
+      "dimensoes_impressao_mm": [
+        188.0,
+        160.0,
+        35.144866943359375
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "01_cabine_traseiro_2_1_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 89057.85125887553,
+      "volume_stl_mm3": 89085.39370847929,
+      "dimensoes_impressao_mm": [
+        185.3450469970703,
+        158.0,
+        32.64312744140625
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "01_cabine_traseiro_2_1_2",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 89057.85104351438,
+      "volume_stl_mm3": 89085.50104256223,
+      "dimensoes_impressao_mm": [
+        185.34504699707676,
+        158.0,
+        32.64312744140625
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "06_parachoque_secao_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 50888.483653634605,
+      "volume_stl_mm3": 50881.357680822584,
+      "dimensoes_impressao_mm": [
+        109.30044364929199,
+        133.14097595214844,
+        76.0
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "06_parachoque_secao_2_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 12818.023302143727,
+      "volume_stl_mm3": 12816.076508283286,
+      "dimensoes_impressao_mm": [
+        134.0,
+        31.16260528564453,
+        24.65684700012207
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "06_parachoque_secao_2_2",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 6392.826378595024,
+      "volume_stl_mm3": 6391.421461219613,
+      "dimensoes_impressao_mm": [
+        15.267728805541992,
+        134.0,
+        11.162603378295898
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "06_parachoque_secao_3",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 50888.48627698798,
+      "volume_stl_mm3": 50882.632823163156,
+      "dimensoes_impressao_mm": [
+        109.30044174194336,
+        133.14097595214844,
+        76.0
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "07_lamina_inferior_secao_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 43380.43817857131,
+      "volume_stl_mm3": 43380.438565248405,
+      "dimensoes_impressao_mm": [
+        110.30059814453125,
+        130.0,
+        11.899999618530273
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "07_lamina_inferior_secao_2",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 46331.00283594076,
+      "volume_stl_mm3": 46331.003915222704,
+      "dimensoes_impressao_mm": [
+        110.69940185546875,
+        134.0,
+        13.108789443969727
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "07_lamina_inferior_secao_3",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 43634.35782142876,
+      "volume_stl_mm3": 43634.35732745542,
+      "dimensoes_impressao_mm": [
+        111.0,
+        130.0,
+        11.899999618530273
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "08_paralama_dianteiro_-1_parte_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 43672.373396970965,
+      "volume_stl_mm3": 43671.480545920145,
+      "dimensoes_impressao_mm": [
+        127.99893569946289,
+        193.0,
+        40.5
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "08_paralama_dianteiro_-1_parte_2",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 45728.15019970534,
+      "volume_stl_mm3": 45725.895981629845,
+      "dimensoes_impressao_mm": [
+        127.99703979492188,
+        193.0,
+        48.5
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "08_paralama_dianteiro_1_parte_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 43672.373396971045,
+      "volume_stl_mm3": 43671.48054592017,
+      "dimensoes_impressao_mm": [
+        127.99893569946289,
+        193.0,
+        40.5
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "08_paralama_dianteiro_1_parte_2",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 45728.15019970528,
+      "volume_stl_mm3": 45725.89598162971,
+      "dimensoes_impressao_mm": [
+        127.99703979492188,
+        193.0,
+        48.5
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "09_paralama_traseiro_-1_parte_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 43637.12073178756,
+      "volume_stl_mm3": 43633.78172025977,
+      "dimensoes_impressao_mm": [
+        127.9970703125,
+        193.0,
+        40.5
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "09_paralama_traseiro_-1_parte_2",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 42192.86392923113,
+      "volume_stl_mm3": 42188.4852898363,
+      "dimensoes_impressao_mm": [
+        127.9970703125,
+        193.0,
+        35.0
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "09_paralama_traseiro_1_parte_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 43637.1207317877,
+      "volume_stl_mm3": 43633.78172025954,
+      "dimensoes_impressao_mm": [
+        127.9970703125,
+        193.0,
+        40.5
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "09_paralama_traseiro_1_parte_2",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 42192.86392923126,
+      "volume_stl_mm3": 42188.48528983669,
+      "dimensoes_impressao_mm": [
+        127.9970703125,
+        193.0,
+        35.0
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "10_carenagem_-1_secao_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 64449.656378162625,
+      "volume_stl_mm3": 64453.98841431376,
+      "dimensoes_impressao_mm": [
+        138.81619262695312,
+        126.0,
+        42.5
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "10_carenagem_-1_secao_2",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 68878.1363781617,
+      "volume_stl_mm3": 68882.49021559372,
+      "dimensoes_impressao_mm": [
+        148.81622314453125,
+        126.0,
+        34.5
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "10_carenagem_1_secao_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 64449.656378162625,
+      "volume_stl_mm3": 64453.98841431376,
+      "dimensoes_impressao_mm": [
+        138.81619262695312,
+        126.0,
+        42.5
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "10_carenagem_1_secao_2",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 68878.1363781617,
+      "volume_stl_mm3": 68882.49021559372,
+      "dimensoes_impressao_mm": [
+        148.81622314453125,
+        126.0,
+        34.5
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "11_emblema_frontal",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 3260.912104388606,
+      "volume_stl_mm3": 3259.5672902202227,
+      "dimensoes_impressao_mm": [
+        65.97948455810547,
+        66.0,
+        12.0
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "11_grade_ventilada_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 11344.644000000011,
+      "volume_stl_mm3": 11344.641206685372,
+      "dimensoes_impressao_mm": [
+        136.0,
+        97.39999389648438,
+        8.5
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "11_grade_ventilada_2",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 11344.644,
+      "volume_stl_mm3": 11344.641206685372,
+      "dimensoes_impressao_mm": [
+        136.0,
+        97.39999389648438,
+        8.5
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "11_tela_duto_-139",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 2069.8639999999978,
+      "volume_stl_mm3": 2069.861391784229,
+      "dimensoes_impressao_mm": [
+        49.0,
+        40.400001525878906,
+        7.5
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "11_tela_duto_0",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 4434.664000000016,
+      "volume_stl_mm3": 4434.664972564854,
+      "dimensoes_impressao_mm": [
+        149.0,
+        40.400001525878906,
+        7.5
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "11_tela_duto_139",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 2069.8639999999978,
+      "volume_stl_mm3": 2069.861391784229,
+      "dimensoes_impressao_mm": [
+        49.0,
+        40.400001525878906,
+        7.5
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "12_espelho_-1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 14412.504350351639,
+      "volume_stl_mm3": 14412.141838638578,
+      "dimensoes_impressao_mm": [
+        43.0,
+        47.0,
+        24.0
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "12_espelho_1",
+      "tipo": "carroceria",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 14412.504350351526,
+      "volume_stl_mm3": 14412.141838638578,
+      "dimensoes_impressao_mm": [
+        43.0,
+        47.0,
+        24.0
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "vidro_opcional_faixa_inferior_vidro_referencia_parte_1",
+      "tipo": "vidro opcional",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 9870.707376326456,
+      "volume_stl_mm3": 9866.060730904466,
+      "dimensoes_impressao_mm": [
+        149.17757873237133,
+        22.5999755859375,
+        11.41207504272461
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "vidro_opcional_faixa_inferior_vidro_referencia_parte_2",
+      "tipo": "vidro opcional",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 9870.70826502617,
+      "volume_stl_mm3": 9866.054036916737,
+      "dimensoes_impressao_mm": [
+        149.17765502631664,
+        22.5999755859375,
+        11.41207504272461
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "vidro_opcional_faixa_superior_vidro_referencia_parte_1",
+      "tipo": "vidro opcional",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 10064.246975163573,
+      "volume_stl_mm3": 10064.411166326046,
+      "dimensoes_impressao_mm": [
+        144.63448791205883,
+        24.5999755859375,
+        11.323974609375
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "vidro_opcional_faixa_superior_vidro_referencia_parte_2",
+      "tipo": "vidro opcional",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 10064.246998144174,
+      "volume_stl_mm3": 10064.06880128925,
+      "dimensoes_impressao_mm": [
+        144.63448791205883,
+        24.5999755859375,
+        11.323974609375
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "vidro_opcional_vidro_frontal_referencia_parte_1",
+      "tipo": "vidro opcional",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 36311.99011776715,
+      "volume_stl_mm3": 36301.32749463897,
+      "dimensoes_impressao_mm": [
+        148.64828185737133,
+        96.5999755859375,
+        28.388948440551758
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "vidro_opcional_vidro_frontal_referencia_parte_2",
+      "tipo": "vidro opcional",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 36311.99011986218,
+      "volume_stl_mm3": 36301.327494638936,
+      "dimensoes_impressao_mm": [
+        148.64828185737133,
+        96.5999755859375,
+        28.388948440551758
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "vidro_opcional_vidro_lateral_negativo_referencia",
+      "tipo": "vidro opcional",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 92011.54710037449,
+      "volume_stl_mm3": 92018.27169851906,
+      "dimensoes_impressao_mm": [
+        210.4333953857422,
+        158.38792419433594,
+        9.396636962890625
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "vidro_opcional_vidro_lateral_positivo_referencia",
+      "tipo": "vidro opcional",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 92011.54569957255,
+      "volume_stl_mm3": 92018.0955694362,
+      "dimensoes_impressao_mm": [
+        210.4349822998047,
+        158.38792419433594,
+        9.396636962890625
+      ],
+      "rotacao_impressao": [
+        [
+          -1.0,
+          -0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH001_frente_centro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 635.8293333333326,
+      "volume_stl_mm3": 635.8292120628169,
+      "dimensoes_impressao_mm": [
+        26.0,
+        8.0,
+        6.600000381469727
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH002_frente_centro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 635.8293333333345,
+      "volume_stl_mm3": 635.8292041283506,
+      "dimensoes_impressao_mm": [
+        26.0,
+        8.0,
+        6.599998474121094
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH003_frente_horizontal",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 539.8293333333335,
+      "volume_stl_mm3": 539.8300521049214,
+      "dimensoes_impressao_mm": [
+        8.0,
+        21.0,
+        6.600000381469727
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH004_frente_horizontal",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 539.8293333333335,
+      "volume_stl_mm3": 539.8300521049214,
+      "dimensoes_impressao_mm": [
+        8.0,
+        21.0,
+        6.600000381469727
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH005_canto_frente_lateral",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333346,
+      "volume_stl_mm3": 597.4311530249021,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH006_canto_frente_lateral",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333351,
+      "volume_stl_mm3": 597.4282497859737,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.5999908447265625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH007_lateral_vertical_inferior",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333332,
+      "volume_stl_mm3": 559.0310006913363,
+      "dimensoes_impressao_mm": [
+        22.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH008_lateral_vertical_superior",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333348,
+      "volume_stl_mm3": 559.0283415930135,
+      "dimensoes_impressao_mm": [
+        22.0,
+        8.0,
+        6.5999908447265625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH009_lateral_horizontal",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 520.629333333333,
+      "volume_stl_mm3": 520.6286386306019,
+      "dimensoes_impressao_mm": [
+        8.0,
+        20.0,
+        6.5999908447265625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH010_lateral_horizontal",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 520.6293333333343,
+      "volume_stl_mm3": 520.6290274255225,
+      "dimensoes_impressao_mm": [
+        8.0,
+        20.0,
+        6.5999908447265625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH011_canto_lateral_traseira",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333361,
+      "volume_stl_mm3": 559.0289501143221,
+      "dimensoes_impressao_mm": [
+        22.0,
+        8.0,
+        6.5999908447265625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH012_canto_lateral_traseira",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333367,
+      "volume_stl_mm3": 559.0316621098269,
+      "dimensoes_impressao_mm": [
+        22.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH013_canto_frente_lateral",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333346,
+      "volume_stl_mm3": 597.4311530249021,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH014_canto_frente_lateral",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333351,
+      "volume_stl_mm3": 597.4282497859737,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.5999908447265625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH015_lateral_vertical_inferior",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333332,
+      "volume_stl_mm3": 559.0310006913363,
+      "dimensoes_impressao_mm": [
+        22.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH016_lateral_vertical_superior",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333348,
+      "volume_stl_mm3": 559.0283415930135,
+      "dimensoes_impressao_mm": [
+        22.0,
+        8.0,
+        6.5999908447265625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH017_lateral_horizontal",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 520.6293333333329,
+      "volume_stl_mm3": 520.6286386306019,
+      "dimensoes_impressao_mm": [
+        8.0,
+        20.0,
+        6.5999908447265625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH018_lateral_horizontal",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 520.6293333333343,
+      "volume_stl_mm3": 520.6290274255225,
+      "dimensoes_impressao_mm": [
+        8.0,
+        20.0,
+        6.5999908447265625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH019_canto_lateral_traseira",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333361,
+      "volume_stl_mm3": 559.0289501143221,
+      "dimensoes_impressao_mm": [
+        22.0,
+        8.0,
+        6.5999908447265625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH020_canto_lateral_traseira",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333367,
+      "volume_stl_mm3": 559.0316621098269,
+      "dimensoes_impressao_mm": [
+        22.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH021_traseira_centro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333387,
+      "volume_stl_mm3": 597.4337064868432,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH022_traseira_centro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333314,
+      "volume_stl_mm3": 597.4278735604026,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.5999755859375
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH023_traseira_horizontal",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333294,
+      "volume_stl_mm3": 559.0280598630852,
+      "dimensoes_impressao_mm": [
+        8.0,
+        22.0,
+        6.5999755859375
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH024_traseira_horizontal",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.029333333329,
+      "volume_stl_mm3": 559.0284189019239,
+      "dimensoes_impressao_mm": [
+        8.0,
+        22.0,
+        6.5999755859375
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH025_traseira_horizontal",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333296,
+      "volume_stl_mm3": 559.0280598630852,
+      "dimensoes_impressao_mm": [
+        8.0,
+        22.0,
+        6.5999755859375
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH026_traseira_horizontal",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.029333333329,
+      "volume_stl_mm3": 559.0284189019239,
+      "dimensoes_impressao_mm": [
+        8.0,
+        22.0,
+        6.5999755859375
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH027_teto_centro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333392,
+      "volume_stl_mm3": 597.4285003927058,
+      "dimensoes_impressao_mm": [
+        8.0,
+        24.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH028_teto_centro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333404,
+      "volume_stl_mm3": 597.4288891878774,
+      "dimensoes_impressao_mm": [
+        8.0,
+        24.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH029_teto_transversal",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.429333333339,
+      "volume_stl_mm3": 597.4289544383015,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH030_teto_transversal",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333385,
+      "volume_stl_mm3": 597.429313480175,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH031_teto_transversal",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.429333333339,
+      "volume_stl_mm3": 597.4289544383015,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH032_teto_transversal",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333385,
+      "volume_stl_mm3": 597.429313480175,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH033_teto_frente",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333359,
+      "volume_stl_mm3": 559.030419841666,
+      "dimensoes_impressao_mm": [
+        8.0,
+        22.0,
+        6.600002288818359
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH034_teto_lateral",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333354,
+      "volume_stl_mm3": 559.0316356611971,
+      "dimensoes_impressao_mm": [
+        8.0,
+        22.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH035_teto_lateral",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.029333333337,
+      "volume_stl_mm3": 559.0316621098294,
+      "dimensoes_impressao_mm": [
+        8.0,
+        22.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH036_teto_traseira",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333404,
+      "volume_stl_mm3": 559.0334510475683,
+      "dimensoes_impressao_mm": [
+        8.0,
+        22.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH037_teto_frente",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333359,
+      "volume_stl_mm3": 559.030419841666,
+      "dimensoes_impressao_mm": [
+        8.0,
+        22.0,
+        6.600002288818359
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH038_teto_lateral",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333354,
+      "volume_stl_mm3": 559.0316356611971,
+      "dimensoes_impressao_mm": [
+        8.0,
+        22.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH039_teto_lateral",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.029333333337,
+      "volume_stl_mm3": 559.0316621098318,
+      "dimensoes_impressao_mm": [
+        8.0,
+        22.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH040_teto_traseira",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333404,
+      "volume_stl_mm3": 559.0334510475683,
+      "dimensoes_impressao_mm": [
+        8.0,
+        22.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH041_parachoque_superior",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333329,
+      "volume_stl_mm3": 597.4291543274554,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.6000001430511475
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH042_parachoque_inferior",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333334,
+      "volume_stl_mm3": 597.4291837768184,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600000381469727
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH043_lamina_centro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333337,
+      "volume_stl_mm3": 597.4291821237829,
+      "dimensoes_impressao_mm": [
+        8.0,
+        24.0,
+        6.600000381469727
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH044_lamina_centro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333335,
+      "volume_stl_mm3": 597.4290931905385,
+      "dimensoes_impressao_mm": [
+        8.0,
+        24.0,
+        6.600000381469727
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH045_parachoque_cabine",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 693.4293333333318,
+      "volume_stl_mm3": 693.4298703204191,
+      "dimensoes_impressao_mm": [
+        8.0,
+        29.0,
+        6.600002288818359
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH046_lamina_parachoque_lateral",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333342,
+      "volume_stl_mm3": 559.0307301789557,
+      "dimensoes_impressao_mm": [
+        8.0,
+        22.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH047_parachoque_superior",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333328,
+      "volume_stl_mm3": 597.4291543274554,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.6000001430511475
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH048_parachoque_inferior",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333333,
+      "volume_stl_mm3": 597.4291837768181,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600000381469727
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH049_lamina_centro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333336,
+      "volume_stl_mm3": 597.4291821237829,
+      "dimensoes_impressao_mm": [
+        8.0,
+        24.0,
+        6.600000381469727
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH050_lamina_centro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333336,
+      "volume_stl_mm3": 597.4290931905385,
+      "dimensoes_impressao_mm": [
+        8.0,
+        24.0,
+        6.600000381469727
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH051_parachoque_cabine",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 693.4293333333318,
+      "volume_stl_mm3": 693.4298703204191,
+      "dimensoes_impressao_mm": [
+        8.0,
+        29.0,
+        6.600002288818359
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH052_lamina_parachoque_lateral",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333342,
+      "volume_stl_mm3": 559.0307301789557,
+      "dimensoes_impressao_mm": [
+        8.0,
+        22.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH053_lamina_parachoque_centro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 636.3622557780727,
+      "volume_stl_mm3": 636.3623693821836,
+      "dimensoes_impressao_mm": [
+        26.431442260742188,
+        9.431442260742188,
+        6.600000381469727
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH054_coroa_paralama",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333335,
+      "volume_stl_mm3": 597.4317353520455,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH055_coroa_paralama",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333331,
+      "volume_stl_mm3": 597.4317353520455,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH056_coroa_paralama",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333335,
+      "volume_stl_mm3": 597.4317353520455,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH057_coroa_paralama",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333331,
+      "volume_stl_mm3": 597.4317353520455,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH058_coroa_paralama",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.429333333336,
+      "volume_stl_mm3": 597.4294294402353,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH059_coroa_paralama",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.429333333336,
+      "volume_stl_mm3": 597.4294294402353,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH060_coroa_paralama",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.429333333336,
+      "volume_stl_mm3": 597.4294294402353,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH061_coroa_paralama",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.429333333336,
+      "volume_stl_mm3": 597.4294294402353,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH062_carenagem_centro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333358,
+      "volume_stl_mm3": 597.4314264113636,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH063_carenagem_centro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333354,
+      "volume_stl_mm3": 597.4316009723892,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH064_paralama_carenagem_frente",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 1346.2293333333369,
+      "volume_stl_mm3": 1346.2346385908847,
+      "dimensoes_impressao_mm": [
+        63.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH065_carenagem_paralama_traseiro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 693.4293333333362,
+      "volume_stl_mm3": 693.4297956511728,
+      "dimensoes_impressao_mm": [
+        29.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH066_paralama_cabine",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 616.6293333333331,
+      "volume_stl_mm3": 616.6318085942354,
+      "dimensoes_impressao_mm": [
+        8.0,
+        25.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH067_paralama_cabine",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 616.6293333333331,
+      "volume_stl_mm3": 616.6318085942354,
+      "dimensoes_impressao_mm": [
+        8.0,
+        25.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH068_carenagem_centro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333358,
+      "volume_stl_mm3": 597.4314264113636,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH069_carenagem_centro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333354,
+      "volume_stl_mm3": 597.4316009723892,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH070_paralama_carenagem_frente",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 1346.2293333333369,
+      "volume_stl_mm3": 1346.2346385908847,
+      "dimensoes_impressao_mm": [
+        63.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH071_carenagem_paralama_traseiro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 693.4293333333362,
+      "volume_stl_mm3": 693.4297956511728,
+      "dimensoes_impressao_mm": [
+        29.0,
+        8.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH072_paralama_cabine",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 616.6293333333332,
+      "volume_stl_mm3": 616.6318085942354,
+      "dimensoes_impressao_mm": [
+        8.0,
+        25.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH073_paralama_cabine",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 616.6293333333332,
+      "volume_stl_mm3": 616.6318085942354,
+      "dimensoes_impressao_mm": [
+        8.0,
+        25.0,
+        6.600006103515625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH074_grade_centro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333327,
+      "volume_stl_mm3": 597.4292143008788,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.599998474121094
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH075_grade_frente",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 491.82933333333244,
+      "volume_stl_mm3": 491.829406707581,
+      "dimensoes_impressao_mm": [
+        8.0,
+        18.5,
+        6.599998474121094
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH076_grade_frente",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 491.8293333333324,
+      "volume_stl_mm3": 491.82940340152163,
+      "dimensoes_impressao_mm": [
+        8.0,
+        18.5,
+        6.599998474121094
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH077_grade_frente",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 491.8293333333325,
+      "volume_stl_mm3": 491.829406707581,
+      "dimensoes_impressao_mm": [
+        8.0,
+        18.5,
+        6.599998474121094
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH078_grade_frente",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 491.8293333333324,
+      "volume_stl_mm3": 491.82940340152163,
+      "dimensoes_impressao_mm": [
+        8.0,
+        18.5,
+        6.599998474121094
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH079_tela_duto",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 530.2293333333326,
+      "volume_stl_mm3": 530.2295002184464,
+      "dimensoes_impressao_mm": [
+        8.0,
+        20.5,
+        6.599999904632568
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH080_tela_duto",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 530.2293333333328,
+      "volume_stl_mm3": 530.2293190459277,
+      "dimensoes_impressao_mm": [
+        8.0,
+        20.5,
+        6.599999904632568
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH081_tela_duto",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 530.229333333333,
+      "volume_stl_mm3": 530.229144485547,
+      "dimensoes_impressao_mm": [
+        8.0,
+        20.5,
+        6.599999904632568
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH082_tela_duto",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 530.229333333333,
+      "volume_stl_mm3": 530.229144485547,
+      "dimensoes_impressao_mm": [
+        8.0,
+        20.5,
+        6.599999904632568
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH083_tela_duto",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 530.2293333333328,
+      "volume_stl_mm3": 530.2293190459277,
+      "dimensoes_impressao_mm": [
+        8.0,
+        20.5,
+        6.599999904632568
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH084_tela_duto",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 530.2293333333326,
+      "volume_stl_mm3": 530.2295002184464,
+      "dimensoes_impressao_mm": [
+        8.0,
+        20.5,
+        6.599999904632568
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH085_vidro_centro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333345,
+      "volume_stl_mm3": 597.4296069603818,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600000381469727
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH086_vidro_centro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333344,
+      "volume_stl_mm3": 597.4298462178849,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.599998474121094
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH087_vidro_centro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 597.4293333333352,
+      "volume_stl_mm3": 597.4299731713212,
+      "dimensoes_impressao_mm": [
+        24.0,
+        8.0,
+        6.600002288818359
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH088_faixa_inferior_vidro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333349,
+      "volume_stl_mm3": 559.0297218015712,
+      "dimensoes_impressao_mm": [
+        8.0,
+        22.0,
+        6.600000381469727
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH089_vidro_faixa_superior",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333343,
+      "volume_stl_mm3": 559.03005749493,
+      "dimensoes_impressao_mm": [
+        8.0,
+        22.0,
+        6.600002288818359
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH090_vidro_coluna_frontal",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 674.2293333333349,
+      "volume_stl_mm3": 674.2296182466156,
+      "dimensoes_impressao_mm": [
+        28.0,
+        8.0,
+        6.599998474121094
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH091_vidro_lateral",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 578.2293333333347,
+      "volume_stl_mm3": 578.2288661910521,
+      "dimensoes_impressao_mm": [
+        8.0,
+        23.0,
+        6.5999908447265625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH092_vidro_lateral",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 578.2293333333361,
+      "volume_stl_mm3": 578.228892639568,
+      "dimensoes_impressao_mm": [
+        8.0,
+        23.0,
+        6.5999908447265625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH093_faixa_inferior_vidro",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333349,
+      "volume_stl_mm3": 559.0297218015712,
+      "dimensoes_impressao_mm": [
+        8.0,
+        22.0,
+        6.600000381469727
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH094_vidro_faixa_superior",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 559.0293333333343,
+      "volume_stl_mm3": 559.03005749493,
+      "dimensoes_impressao_mm": [
+        8.0,
+        22.0,
+        6.600002288818359
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH095_vidro_coluna_frontal",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 674.2293333333349,
+      "volume_stl_mm3": 674.2296182466156,
+      "dimensoes_impressao_mm": [
+        28.0,
+        8.0,
+        6.599998474121094
+      ],
+      "rotacao_impressao": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH096_vidro_lateral",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 578.2293333333347,
+      "volume_stl_mm3": 578.2288661910521,
+      "dimensoes_impressao_mm": [
+        8.0,
+        23.0,
+        6.5999908447265625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "nome": "CH097_vidro_lateral",
+      "tipo": "chaveta",
+      "cad_valido": true,
+      "step_reimportado": true,
+      "stl_fechado": true,
+      "volume_cad_mm3": 578.2293333333358,
+      "volume_stl_mm3": 578.228892639568,
+      "dimensoes_impressao_mm": [
+        8.0,
+        23.0,
+        6.5999908447265625
+      ],
+      "rotacao_impressao": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    }
+  ]
+}

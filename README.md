@@ -1,3 +1,5 @@
+**Caminhão atualizado:** [V2 com encaixes internos para colar — CAD, STL e teste de folga](Formula_Truck/COM_ENCAIXES_V2/README.md).
+
 # Carroceria modular para Fusion
 
 ## Formula Truck — CAD com peças soltas

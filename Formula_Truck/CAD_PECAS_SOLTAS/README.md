@@ -1,3 +1,5 @@
+**Este pacote foi substituído pela [V2 com encaixes internos para colar](../COM_ENCAIXES_V2/README.md).** Use os painéis revisados para montar com as chavetas.
+
 # Formula Truck — CAD com todas as peças soltas
 
 [BAIXAR CAD COMPLETO — PEÇAS INDIVIDUAIS, MONTAGENS E STL](https://github.com/evildinomar2-dot/front-body-modular/raw/refs/heads/main/Formula_Truck/CAD_PECAS_SOLTAS/Formula_Truck_CAD_Pecas_Soltas.zip)
